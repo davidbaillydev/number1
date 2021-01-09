@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "/"
+baseURL = "https://lcdigital.netlify.app"
 title = "La Communication Digitale Freelance Web"
 defaultContentLanguage = "fr"
 languageCode = "fr"
