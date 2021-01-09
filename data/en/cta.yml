@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Let's think together about your digital presence"
+  content : OUR PHILOSOPHY IS TO OFFER AN IDEAL AND EFFICIENT DIGITAL ECOSYSTEM TO ENSURE ITS ONLINE PRESENCE
+  button:
+    enable : true
+    label : "Start a project with us"
+    link : "#contact"

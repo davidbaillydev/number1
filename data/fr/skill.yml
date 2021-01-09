@@ -1,0 +1,26 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Nos compétences
+  subtitle : Les compétences et l'expertise acquises au sein du marché numériques et des outils internet.
+  content : Spécialiste dans notre secteur. Nous apportons les outils, les concepts de création de solution web performant notre but est axés sur une présence en ligne, marketing numérique global. Nous créons des solutions adapter à différent type de projet ou de structure que ce soit sur-mesure ou déjà existant sur le marché.
+  # image : images/about/company-growth.png
+  skill_item :
+    # skill item loop
+    - name : Développement Web
+      percent : 94%
+      
+    # skill item loop
+    - name :  Marketing Numérique
+      percent : 78%
+      
+    # skill item loop
+    - name :  Conception Graphique
+      percent : 80%
+      
+    - name :  Conception UX/UI
+      percent : 70%
+      
+    # skill item loop
+    - name :  Communication
+      percent : 75%
