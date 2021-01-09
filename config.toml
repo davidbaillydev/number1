@@ -4,7 +4,7 @@ title = "La Communication Digitale Freelance Web"
 defaultContentLanguage = "fr"
 languageCode = "fr"
 themes = "meghna-hugo"
-# themesDir = "../.."
+themesDir = "../.."
 # post pagination
 paginate = "6"
 # post excerpt
