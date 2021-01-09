@@ -1,6 +1,6 @@
 [build]
-  publish = "meghna-hugo/public"
-  command = "cd meghna-hugo && hugo --gc --themesDir ../.."
+  publish = "themes/public"
+  command = "cd themes && hugo --gc --themesDir ../.."
   
 [build.environment]
   HUGO_VERSION = "0.79.0"
