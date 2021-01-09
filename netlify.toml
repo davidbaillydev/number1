@@ -8,7 +8,7 @@
 #   HUGO_BASEURL = "/"
 
 [build]
-publish = "public"
+publish = "themes/public"
 command = "hugo --gc --minify"
 
 [context.production.environment]
