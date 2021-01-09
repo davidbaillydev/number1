@@ -9,14 +9,13 @@ testimonial:
       image : images/client/clienta.png
       image_webp : images/client/clienta.webp
       date : Dec 26, 2020
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
+      content: I am very happy to have collaborated with Lcdigitale, for the design of my website they were fast and efficient, a big thank you.      
     # testimonial item loop
     - name : Le Palais De L'Inde
       image : images/client/clientb.png
       image_webp : images/client/clientb.webp
       date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      content : Our activities having been slowed down by the Covid-19, Lc digitale has allowed us to have an online sales site in our image, today we are working differently.
       
     # testimonial item loop
     # - name : Lemos Kail
