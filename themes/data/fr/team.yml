@@ -9,7 +9,7 @@ team:
       image : images/team/team1.jpg
 
       designation : Développeur web | Maketing Digital
-      content : Fan de développement web et conception graphique, curieux dans l’âme, j’aime toucher à tout ce qui englobe le numérique.
+      content : Fan de développement web et conception graphique, curieux dans l’âme, j’aime toucher à tout ce qui englobe le numérique. Retrouvez-moi sur mes réseaux! 
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
