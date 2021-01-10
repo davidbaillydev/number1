@@ -3,7 +3,7 @@ baseURL = "https://www.lcdigitale.fr"
 title = "La Communication Digitale Freelance Web"
 defaultContentLanguage = "fr"
 languageCode = "fr"
-themes = "meghna-hugo"
+themes = "themes"
 themesDir = "../.."
 # post pagination
 paginate = "6"
