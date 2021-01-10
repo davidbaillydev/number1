@@ -2,7 +2,7 @@
 feature:
   enable : true
   image : images/about/emma.jpg
-  image_webp : images/about/about-business-man.webp
+  image_webp : images/about/emma.webp
   title : Web development and Digital Marketing.
   content : The digital communication freelance partner, to promote our skills to individuals and companies, by focusing on issues related to their business are part of our primary objectives, which allow us to establish support solutions.s
   feature_item : 

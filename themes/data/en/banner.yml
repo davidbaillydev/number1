@@ -1,8 +1,8 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/pi-hero.png"
+  bg_image_webp : "images/backgrounds/lc-hero.webp"
+  bg_image : "images/backgrounds/lc-hero.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Be-smart digitale"
   content : "Working with a freelance partner means choosing local collaboration, mutual understanding, trust and support for your future project!"

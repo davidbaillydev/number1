@@ -5,8 +5,8 @@ team:
   team_member :
     # team member loop
     - name : David Bailly
-      image_webp : images/team/team-1.webp
-      image : images/team/team1.png
+      image_webp : images/team/team1.webp
+      image : images/team/team1.jpg
 
       designation : Développeur web | Maketing Digital
       content : Fan de développement web et conception graphique, curieux dans l’âme, j’aime toucher à tout ce qui englobe le numérique.

@@ -2,7 +2,7 @@
 feature:
   enable : true
   image : images/about/emma.jpg
-  image_webp : images/about/about-business-man.webp
+  image_webp : images/about/emma.webp
   title :  Développement Web et Marketing Numérique.
   content : La communication digitale partenaire freelance, faire valoir nos compétences auprès de particulier et d’entreprises, en s’intéressant aux problématiques liées à leurs métiers font parti de nos objectifs premiers, qui nous permettent d’établir des solutions d’accompagnements.
   feature_item : 

@@ -1,9 +1,8 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  # bg_image : "images/backgrounds/hero-area.jpg"
-  bg_image : "images/backgrounds/pi-hero.png"
+  bg_image_webp : "images/backgrounds/lc-hero.webp"
+  bg_image : "images/backgrounds/lc-hero.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "L'Intélligence Numérique"
   content : " Travailler avec un partenaire freelance, c'est choisir une collaboration de proximités, une compréhension mutuelle, une confiance et un accompagnement pour votre futur projet!"
