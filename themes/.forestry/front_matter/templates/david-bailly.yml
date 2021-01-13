@@ -23,3 +23,5 @@ fields:
   - type: text
     name: link
     label: link
+pages:
+- themes/content/french/author/david-bailly.md
