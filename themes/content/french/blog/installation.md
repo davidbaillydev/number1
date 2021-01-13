@@ -7,7 +7,7 @@ image: images/blog/blogpost2.jpg
 description: This is meta description
 
 ---
-## **La ligne éditoriale : ADN de votre communication digitale**
+### La ligne éditoriale : ADN de votre communication digitale
 
 Véritable ADN de votre communication web, la ligne éditoriale est un outil qui vous permettra de communiquer efficacement sur Internet. 
 
