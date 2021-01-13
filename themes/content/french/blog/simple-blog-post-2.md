@@ -1,18 +1,26 @@
 ---
-title: Simple Blog Post
-date: 2018-09-12T12:52:36.000+06:00
+title: La Charte Graphique ? Parlons En !
+date: 2020-01-02T07:52:36+00:00
 image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
+image: "/uploads/logodesign.jpg"
 author: David Bailly
 description: This is meta description
 
 ---
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+### Comment gérer la création d’un logo pour votre entreprise ?
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Quelle que soit l’activité de l’entreprise qui démarre, **la création d’un logo** en accord avec l’image qui veut être renvoyée, est obligatoire. Un logo est destiné à figurer sur **tous les documents officiels**, les documents liés à la communication ainsi que sur **le site web** de l’entreprise.
 
-> Design is not just what it looks like and feels like. Design is how it works.
+La création d’un logo doit être assurée par une entité en mesure de comprendre **l’identité** et **les valeurs de votre entreprise**.
 
-> Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Comment obtenir **un logo efficace** ? Par qui faire réaliser son logo ? De quoi est constitué le coût d’un logo ?
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+> Un Logo Pensé Pour Durer
+
+Le logo de votre entreprise ou de votre institution est **prévu pour durer**. N’optez donc pas pour la **tendance graphique**du moment qui sera passée de mode d’ici un mois. Un logo doit être pensé pour avoir une durée de vie d’**une dizaine d’années**. La feuille de route pour sa création est sans doute l’étape la plus longue à réaliser. Celle-ci doit être abordée dans le cahier des charges de votre site web, au niveau de la création ou refonte de la **charte graphique**.
+
+Ce logo doit pouvoir se **démarquer des autres** en **attirant l’attention** et surtout être utilisé sur tous vos supports de communication et ceci dans n’importe quelle taille.
+
+Si votre activité se décline à l’international, vérifiez que votre logo **reste compréhensible** dans les pays avec lesquels vous travaillez. Il doit demeurer **facilement identifiable** et **porter le message** et **la stratégie de votre entreprise**.
+
+N’hésitez pas avoir **de nombreux échanges avec le graphiste** responsable de votre logo. Ses **conseils** et son **expérience** sont à prendre en compte au même titre que les remarques de vos collaborateurs.
