@@ -10,5 +10,3 @@ description: This is meta description
 ### Comment fonctionne le référencement local ?
 
 Internet ne se réserve pas qu’aux entreprises qui ont une activité nationale ! Les entreprises locales ont également des intérêts commerciaux.
-
-> Design is not just what it looks like and feels like. Design is how it works.

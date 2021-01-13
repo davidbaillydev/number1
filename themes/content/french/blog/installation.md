@@ -9,6 +9,4 @@ description: This is meta description
 ---
 ### La ligne éditoriale : ADN de votre communication digitale
 
-Véritable ADN de votre communication web, la ligne éditoriale est un outil qui vous permettra de communiquer efficacement sur Internet. 
-
-> _Une ligne éditoriale se créer en prenant en compte à la fois l’identité de la marque et celle de ses prospects._
+Véritable ADN de votre communication web, la ligne éditoriale est un outil qui vous permettra de communiquer efficacement sur Internet.

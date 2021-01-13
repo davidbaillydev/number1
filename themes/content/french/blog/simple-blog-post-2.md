@@ -9,6 +9,4 @@ description: This is meta description
 ---
 ### Comment gérer la création d’un logo pour votre entreprise ?
 
-Quelle que soit l’activité de l’entreprise qui démarre, **la création d’un logo** en accord avec l’image qui veut être renvoyée, est obligatoire. 
-
-> Un Logo Pensé Pour Durer
+Quelle que soit l’activité de l’entreprise qui démarre, la création d’un logo en accord avec l’image qui veut être renvoyée, est obligatoire.
