@@ -1,5 +1,5 @@
 ---
-title: Le Référencement ? Parlons En!
+title: Le Référencement, Parlons En...
 date: 2020-01-13T08:51:12+00:00
 image_webp: images/blog/blogpost3.webp
 image: images/blog/blogpost3.jpg

@@ -1,5 +1,5 @@
 ---
-title: La Charte Graphique ? Parlons En !
+title: La Charte Graphique, Parlons En...
 date: 2020-01-02T07:52:36.000+00:00
 image_webp: images/blog/creation.webp
 image: images/blog/creation.jpg

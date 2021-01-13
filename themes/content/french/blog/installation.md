@@ -1,5 +1,5 @@
 ---
-title: La Communication Global ? Parlons En !
+title: La Communication Global, Parlons En...
 date: 2020-01-10T09:51:12+00:00
 author: David Bailly
 image_webp: images/blog/blogpost2.webp
