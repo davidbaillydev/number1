@@ -1,5 +1,4 @@
 +++
-draft = true
 email = "david.bailly@lcdigitale.fr"
 image = ""
 title = "David Bailly"
