@@ -9,4 +9,4 @@ description: This is meta description
 ---
 ### Comment fonctionne le référencement local ?
 
-Internet ne se réserve pas qu’aux entreprises qui ont une activité nationale ! Les entreprises locales ont également des intérêts commerciaux.
+Internet ne se réserve pas qu’aux entreprises qui ont une activité nationale,les entreprises locales ont également des intérêts commerciaux.
