@@ -1,8 +1,8 @@
 ---
 title: La Charte Graphique ? Parlons En !
 date: 2020-01-02T07:52:36+00:00
-image_webp: images/blog/blog-post-2.webp
-image: images/creation.jpg
+image_webp: images/blog/creation.webp
+image: images/blog/creation.jpg
 author: David Bailly
 description: This is meta description
 
