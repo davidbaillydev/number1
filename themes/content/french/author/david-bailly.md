@@ -1,6 +1,6 @@
 +++
 email = "david.bailly@lcdigitale.fr"
-image = "/uploads/team/team1.webp"
+image = "/team/team1.jpg"
 title = "David Bailly"
 [[social]]
 icon = "ti-facebook"
