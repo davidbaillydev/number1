@@ -1,6 +1,6 @@
 ---
 title: La Charte Graphique ? Parlons En !
-date: 2020-01-02T07:52:36+00:00
+date: 2020-01-02T07:52:36.000+00:00
 image_webp: images/blog/creation.webp
 image: images/blog/creation.jpg
 author: David Bailly
@@ -9,7 +9,9 @@ description: This is meta description
 ---
 ### Comment gérer la création d’un logo pour votre entreprise ?
 
-Quelle que soit l’activité de l’entreprise qui démarre, **la création d’un logo** en accord avec l’image qui veut être renvoyée, est obligatoire. Un logo est destiné à figurer sur **tous les documents officiels**, les documents liés à la communication ainsi que sur **le site web** de l’entreprise.
+Quelle que soit l’activité de l’entreprise qui démarre, **la création d’un logo** en accord avec l’image qui veut être renvoyée, est obligatoire. 
+
+Un logo est destiné à figurer sur **tous les documents officiels**, les documents liés à la communication ainsi que sur **le site web** de l’entreprise.
 
 La création d’un logo doit être assurée par une entité en mesure de comprendre **l’identité** et **les valeurs de votre entreprise**.
 
