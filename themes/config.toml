@@ -14,6 +14,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
 
+
 ############################# Plugins ##########################
 # css plugins
 [[params.plugins.css]]
@@ -147,7 +148,7 @@ weight = 7
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "La communication digitale freelance développment web"
+description = "La communication digitale freelance développement web et marketing numérique "
 author = "David Bailly"
 # Google Analytics
 google_analytics_id = "" # Your ID
