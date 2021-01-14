@@ -152,7 +152,7 @@ logo = "images/logo.png"
 description = "La communication digitale freelance développement web et marketing numérique "
 author = "David Bailly"
 # Google Analytics
-google_analytics_id = "258139622" # Your ID
+google_analytics_id = "" # Your ID
 # post share
 post_share = true
 
