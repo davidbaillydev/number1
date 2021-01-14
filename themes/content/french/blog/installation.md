@@ -5,6 +5,7 @@ author: David Bailly
 image_webp: images/blog/blogpost2.webp
 image: images/blog/blogpost2.jpg
 description: This is meta description
+draft: true
 
 ---
 ### La ligne éditoriale : ADN de votre communication digitale
