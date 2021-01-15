@@ -156,6 +156,9 @@ google_analytics_id = "" # Your ID
 # post share
 post_share = true
 
+#base canonique
+canonicalUrl = "https://www.lcdigitale.fr"
+
 # preloader
 [params.preloader]
 enable = false
