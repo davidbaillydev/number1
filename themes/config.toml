@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://www.lcdigitale.fr"
-title = "La Communication Digitale Freelance Web"
+title = "La Communication Digitale - Freelance Web"
 defaultContentLanguage = "fr"
 languageCode = "fr"
 themes = "meghna-hugo"
