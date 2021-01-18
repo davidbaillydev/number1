@@ -3,7 +3,7 @@ skill:
   enable : true
   title : Nos compétences
   subtitle : Les compétences et l'expertise acquises au sein du marché numériques et des outils internet.
-  content : Spécialiste dans notre secteur. Nous apportons les outils, les concepts de création de solution web performant notre but est axés sur une présence en ligne, marketing numérique global. Nous créons des solutions adapter à différent type de projet ou de structure que ce soit sur-mesure ou déjà existant sur le marché.
+  content : Spécialiste dans notre secteur. Nous apportons les outils, les concepts de création de solution web performant notre but est axé sur une présence en ligne, marketing numérique global. Nous créons des solutions adapter à différent type de projet ou de structure que ce soit sur-mesure ou déjà existant sur le marché.
   # image : images/about/company-growth.png
   skill_item :
     # skill item loop
