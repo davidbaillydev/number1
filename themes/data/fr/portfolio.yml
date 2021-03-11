@@ -4,12 +4,12 @@ portfolio:
   title : Nos réalisations
   portfolio_item :
     # portfolio item loop
-    - name : Le Palais de L'Inde
-      image : images/portfolio/porto.png
-      image_webp : images/portfolio/porto.webp
-      categories : ["Conception"]
-      content : Conception Graghique Logo
-      link : "#"
+    # - name : Le Palais de L'Inde
+    #   image : images/portfolio/porto.png
+    #   image_webp : images/portfolio/porto.webp
+    #   categories : ["Conception"]
+    #   content : Conception Graghique Logo
+    #   link : "#"
       
     # portfolio item loop
     - name : Bombay Nan Grill Design
