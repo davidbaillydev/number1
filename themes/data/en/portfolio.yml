@@ -4,13 +4,13 @@ portfolio:
   title : Our Works
   portfolio_item :
     # portfolio item loop
-    - name : Le Palais de L'Inde
-      image : images/portfolio/porto.png
-      image_webp : images/portfolio/porto.webp
-      categories : ["Conception"]
-      content : Logo Graphic Design.
-      # link : "https://themefisher.com"
-      link : "#"
+    # - name : Le Palais de L'Inde
+    #   image : images/portfolio/porto.png
+    #   image_webp : images/portfolio/porto.webp
+    #   categories : ["Conception"]
+    #   content : Logo Graphic Design.
+    #   # link : "https://themefisher.com"
+    #   link : "#"
       
       # portfolio item loop
     - name : Bombay Nan Grill Design
@@ -18,7 +18,7 @@ portfolio:
       image_webp : images/portfolio/porto-1.webp
       categories : ["development"]
       content : Website development with E-commerce option.
-      link : "#"
+      link : "https://bombaynangrill.fr"
       
 
 
@@ -37,7 +37,7 @@ portfolio:
       image_webp : images/portfolio/porto-3.webp
       categories : ["development"]
       content : Website development with E-commerce option.
-      link : "https://davidbaillydev.github.io/palaisdelinde/"
+      link : "https://www.palaisdelinde-stalban.fr"
 
 
       # portfolio item loop

@@ -11,14 +11,14 @@ team:
       designation : Développeur web | Maketing Digital
       content : Fan de développement web et conception graphique, curieux dans l’âme, j’aime toucher à tout ce qui englobe le numérique. Retrouvez-moi sur mes réseaux! 
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+       # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+       #   link : "#"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/davidbailly8"
+      #  - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        #  link : "#"
         
     # team member loop
     # - name : Emma Castell
