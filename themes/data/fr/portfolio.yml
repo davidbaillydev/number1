@@ -34,7 +34,7 @@ portfolio:
       image_webp : images/portfolio/porto-3.webp
       categories : ["developpement"]
       content : Développement Site Web avec option E-commerce.
-      link : "https://davidbaillydev.github.io/palaisdelinde/"
+      link : "https://www.palaisdelinde-stalban.fr"
       
           # portfolio item loop
     - name : David Bailly Blog 
