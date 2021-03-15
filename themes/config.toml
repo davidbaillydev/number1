@@ -161,7 +161,7 @@ canonicalUrl = "https://www.lcdigitale.fr"
 
 # preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/logo.png"
 
 # cookies
