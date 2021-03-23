@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://www.lcdigitale.fr"
-title = "La Communication Digitale - Freelance Web"
+title = "La Communication Digitale - Développeur Web freelance - création de site web"
 defaultContentLanguage = "fr"
 languageCode = "fr"
 themes = "meghna-hugo"
@@ -149,7 +149,7 @@ weight = 7
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Freelance développement web, marketing numérique,Conception Graphique,SEO. Spécialiste dans notre secteur.Création de solution web performant notre but est axé sur une présence en ligne, marketing numérique global. Nous créons des solutions adapter à différent type de projet ou de structure que ce soit sur-mesure ou déjà existant sur le marché"
+description = "La communication digitale. Développeur web freelance, conseil, accompagnement et création de site web. Spécialités : développement web, marketing numérique, conception graphique. Solutions web adapter à différent type de projet."
 author = "David Bailly"
 # Google Analytics
 google_analytics_id = "" # Your ID
