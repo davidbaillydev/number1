@@ -13,7 +13,7 @@ portfolio:
       
     # portfolio item loop
     - name : Bombay Nan Grill Design
-      image : images/portfolio/porto-1.png
+      image : images/portfolio/porto-1.jpg
       image_webp : images/portfolio/porto-1.webp
       categories : ["developpement"]
       content : Développement Site Web avec option E-commerce.
@@ -22,23 +22,24 @@ portfolio:
 
     # portfolio item loop
     - name : Portofolio David Bailly
-      image : images/portfolio/porto-2.png
+      image : images/portfolio/porto-2.jpg
       image_webp : images/portfolio/porto-2.webp
+      categories : ["developpement"]
+      content : Développement Site Web avec option E-commerce.
+      link : "https://www.palaisdelinde-stalban.fr"
+
+      
+    # portfolio item loop
+    - name : Le Palais De L'Inde
+      image : images/portfolio/porto-3.jpg
+      image_webp : images/portfolio/porto-3.webp
       categories : ["developpement"]
       content : Développement d'un portofiolio.
       link : "https://davidbaillydev.github.io/davidbailly.io/index.html"
       
-    # portfolio item loop
-    - name : Le Palais De L'Inde
-      image : images/portfolio/porto-3.png
-      image_webp : images/portfolio/porto-3.webp
-      categories : ["developpement"]
-      content : Développement Site Web avec option E-commerce.
-      link : "https://www.palaisdelinde-stalban.fr"
-      
           # portfolio item loop
     - name : David Bailly Blog 
-      image : images/portfolio/porto-4.png
+      image : images/portfolio/porto-4.jpg
       image_webp : images/portfolio/porto-4.webp
       categories : ["developpement"]
       content : Développement d'un Site Internet avec Blog.
