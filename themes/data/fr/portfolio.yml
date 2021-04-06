@@ -21,7 +21,7 @@ portfolio:
       
 
     # portfolio item loop
-    - name : Portofolio David Bailly
+    - name : Le Palais De L'Inde
       image : images/portfolio/porto-2.jpg
       image_webp : images/portfolio/porto-2.webp
       categories : ["developpement"]
@@ -30,7 +30,7 @@ portfolio:
 
       
     # portfolio item loop
-    - name : Le Palais De L'Inde
+    - name : Portofolio David Bailly 
       image : images/portfolio/porto-3.jpg
       image_webp : images/portfolio/porto-3.webp
       categories : ["developpement"]
