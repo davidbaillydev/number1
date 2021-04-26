@@ -18,8 +18,8 @@ enableRobotsTXT = "true"
 
 ############################# Plugins ##########################
 # css plugins
-[[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.css"
+# [[params.plugins.css]]
+# link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
