@@ -152,7 +152,7 @@ logo = "images/logo.png"
 description = "La communication digitale. Développeur web freelance, conseil, accompagnement et création de site web. Spécialités : développement web, marketing numérique, conception graphique. Solutions web adapter à différent type de projet."
 author = "David Bailly"
 # Google Analytics
-google_analytics_id = "" # Your ID
+google_analytics_id = "G-1W0S9VCFWZ" # Your ID
 # post share
 post_share = true
 
