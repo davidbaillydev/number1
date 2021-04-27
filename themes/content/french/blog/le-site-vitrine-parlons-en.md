@@ -16,10 +16,11 @@ Malgré la performance de ces plateformes révolutionnaires promettant la constr
 
 ## Un Freelance pour son site web ! 
 
-Développer un site internet sois même peut être passionnant dès le début, :) mais on peu très vite se retrouver débordé par la quantité de travaille à mettre en oeuvre pour que son site suivent les dernière tendance et mise à jour. 
+Développer un site internet tout seul peut être passionnant dès le début, :) Mais on peut très vite se retrouver débordé par la quantité de travail à mettre en œuvre pour que son site suive les dernières tendances et mise à jour.   
+Cependant choisir un développeur web Freelance est une solution qui en termes d'investissement peut être intéressant pour tous entrepreneurs, particulier, chef d'entreprise désireux d'avoir une présence en ligne qui se veut soignée, et permet ainsi de rester concentrer sur votre activité en léguant cette tache à développeur web freelance expérimenté ou débutant selon votre budget.
 
-Cependant choisir un développeur web Freelance est une solution qui en termes d'investissement reste abordable et s'adapte 
+1. **Pourquoi choisir de faire developper son site web par un freelance  ?** 
 
-Cependant une alternative est de choisir un développeur Web Freelance s'offre à tous entrepreneurs, particulier, chef d'entreprise désireux d'avoir une présence en ligne soigné, et vous permettra de rester concentrer sur votre activité 
+   Pour des raison pratique un développeur web freelance  évolue dans le milieu du numérique il seras en mesure de mieux évaluer votre projet et pourras le réaliser plus aisément. 
 
  
