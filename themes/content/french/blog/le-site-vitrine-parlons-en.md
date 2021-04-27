@@ -16,7 +16,7 @@ Malgré la performance de ces plateformes révolutionnaires promettant la constr
 
 ## Un Freelance pour son site web ! 
 
-Développer un site internet sois même peut être passionnant dès le début, :) mais on peu très vite être débordé par la quantité de travaille à mettre en oeuvre pour que son site suivent les dernière tendance et mise à jour. 
+Développer un site internet sois même peut être passionnant dès le début, :) mais on peu très vite se retrouver débordé par la quantité de travaille à mettre en oeuvre pour que son site suivent les dernière tendance et mise à jour. 
 
 Cependant choisir un développeur web Freelance est une solution qui en termes d'investissement reste abordable et s'adapte 
 
