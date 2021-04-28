@@ -14,7 +14,8 @@ Aujourd'hui, bon nombre de plateformes et de logiciels proposent de développer 
 
 Malgré la performance de ces plateformes révolutionnaires promettant la construction d'un site à la vitesse, éclaire, il faut néanmoins du temps et de la patience pour arrivée à un résultat satisfaisant. Si la solution du site web crée par vos soins peu s'avérer être une solution d'investissement peu coûteuse, il faut encore pouvoir être sûr que votre site internet répond à toutes les exigences lié à une présence en ligne jugé efficace.
 
-![](/images/fccd934e-9b98-494b-bb68-3ab11837b415.jpeg)
+  
+![](/images/7fc1bfc9-b3e6-45ee-9ea9-bc293b9cd1dc.jpeg "Freelance ")
 
 ### Un Freelance pour son site web !
 
