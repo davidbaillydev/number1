@@ -40,3 +40,10 @@ Cela vous permettra de comparer les différents proposition de devis, et ainsi g
 
 Les avantages à faire appel à un développeur web freelance ne manque pas en effet ce sont des professionnels indépendants,  qui on choisit une manière propre à eux d’exercer leur activité, noté que ils ont généralement un site web ou un portfolio qui présente les différents projet qu’il on pu réaliser et qui peut être une source d’informations fiables sur la qualité des projets réalisés et livrés.  
 Un développeur web freelance aura tout intérêt à instauré une relation de confiance et de proximité car il travaille en direct avec vous. Il est en mesure de  comprendre votre environnement de travaille et est plus susceptible de s’accorder à vos contraintes. Il seras aussi plus accessible tout au long du projet et même après sa réalisation. Et seras plus flexible en terme d’horaire.
+
+# En conclusion 
+
+Il est devenue facile depuis quelques années maintenant de pouvoir s’offrir un site web à moindre coût, le numérique évoluant constamment il se veut aussi plus accessible à tous.
+
+Il est cependant difficile de s’y retrouver quand il s’agit de se lancer, entre plateformes CMS Tel que WordPress en passants par des Agences web ou Freelance web. Il y’a en effet aujourd’hui en 2021 une multitude d’aspects à prendre en compte quand on souhaite créer son site web.   
+Au final il ne faut pas hésiter à utiliser ou comparer toute c’est solution entre elle pour mieux faire correspondre à votre besoins au plus près de votre projet.
