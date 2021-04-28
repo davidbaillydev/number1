@@ -10,8 +10,10 @@ title = "Développer son site web avec un Freelance !"
 +++
 Aujourd'hui, bon nombre de plateformes CMS tel que Wordpress, Wix, Shopify proposent de développer un site internet, Blog gratuit ou un site E- Commerce contre un abonnement mensuel ou encore à l’année. Généralement penser et adapter à un public d’expérimenté ou non en développement web.
 
-Malgré la performance de ces plateformes révolutionnaires promettant la construction d'un site à la vitesse éclaire, cela nécessite du temps et de la patience pour arrivée à un résultat satisfaisant.   
-Si la solution du site web crée par vos soins peu s'avérer être une solution d'investissement peu coûteuse, il faut encore pouvoir être sûr que votre site internet répond à toutes les exigences lié à une présence en ligne qui doit être efficace dans le temps. 
+Malgré la performance de ces plateformes révolutionnaires promettant la construction d'un site à la vitesse éclaire, cela nécessite du temps et de la patience pour arrivée à un résultat satisfaisant.  
+Si la solution du site web crée par vos soins peu s'avérer être une solution d'investissement peu coûteuse, il faut encore pouvoir être sûr que votre site internet répond à toutes les exigences lié à une présence en ligne qui doit être efficace dans le temps.
+
+![](/images/7fc1bfc9-b3e6-45ee-9ea9-bc293b9cd1dc.jpeg)
 
 ### Un Freelance pour son site web !
 
