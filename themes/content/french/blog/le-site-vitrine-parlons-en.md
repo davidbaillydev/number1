@@ -1,7 +1,7 @@
 +++
 author = "David Bailly"
 date = 2021-04-29T22:00:00Z
-description = ""
+description = "Vous souhaiter développer un site web, pourquoi ne pas faire appel à un développeur web freelance un professionnel qui vous reviendra moins chers. "
 draft = true
 image = "/lcdig.jpg"
 image_webp = ""
