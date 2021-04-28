@@ -21,11 +21,15 @@ Cependant choisir un développeur web Freelance est une solution qui en termes d
 
 #### **Pourquoi choisir de faire developper son site web par un freelance  ?**
 
+> Gagner du temps en déléguant votre projet web 
+
 Pour des raison pratique un développeur web freelance évolue dans un environnement numérique de développement et seras en mesure de mieux évaluer votre projet et pourras le réaliser plus aisément.  
 Il pourras en effets vous aidez dans les différentes phases de projet et vous conseiller sur les tendance moment.  
 Pour ce qui concerne les tarifs des freelance, ils varient selon l’expérience à savoir de débutant à expert. En moyenne compter 250€/ jours, pour un développeur web freelance intermédiaire.
 
 #### **Peut on Faire appel à un développeur web freelance quand on n’a peu de Budget ?**
+
+> Économisez de l’argent dans vôtre projet web. 
 
 Il est tout à fait normal que l’on est des idées et l’envie de posséder un site web pour rendre visible notre activité et la faire connaître à un grand nombre mais que l’on ne possède pas assez de budget pour faire appel à un développeur web freelance, qui nous facturera en tarif journalier.
 
