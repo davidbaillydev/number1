@@ -44,8 +44,9 @@ Cela vous permettra de comparer les différents proposition de devis, et ainsi g
 
 > La proximité et la flexibilité des tarifs.
 
-Les avantages à faire appel à un développeur web freelance ne manque pas en effet ce sont des professionnels indépendants,  qui on choisit une manière propre à eux d’exercer leur activité, noté qu’ils ont généralement un site web ou un portfolio qui présente les différents projet qu’il on pu réaliser et qui peut être une source d’informations fiables sur la qualité des projets réalisés et livrés.  
-Un développeur web freelance aura tout intérêt à instauré une relation de confiance et de proximité car il travaille en direct avec vous. Il est en mesure de comprendre votre environnement de travaille et de s’accorder à vos contraintes. Il seras aussi plus accessible tout au long du projet et même après sa réalisation. Et seras plus flexible en terme d’horaire.
+Les avantages à faire appel à un développeur web freelance ne manque pas en effet, ce sont des professionnels indépendants, qui on choisit une manière propre à eux d’exercer leur activité, noté qu’ils ont généralement un site web ou un portfolio qui présente les différents projet qu’ils ont pu réaliser et qui peut être une source d’informations fiables sur la qualité des projets réalisés et livrés.   
+  
+Un développeur web freelance aura tout intérêt à instauré une relation de confiance et de proximité, car il travaille en direct avec vous. Il est en mesure de comprendre votre environnement de travail et de s’accorder à vos contraintes. Il sera aussi plus accessible tout au long du projet, et même après sa réalisation. Et seras plus flexible en terme d’horaire.
 
 # En conclusion
 
