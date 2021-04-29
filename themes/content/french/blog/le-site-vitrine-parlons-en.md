@@ -28,13 +28,13 @@ Cependant choisir un développeur web Freelance est une solution qui en termes d
 
 Pour des raison pratique et technique un développeur web freelance évolue comme la plupart des agence web dans un environnement numérique de développement, et seras en mesure de mieux évaluer votre projet et pourras le réaliser plus aisément.  
 Il pourras en effets vous aidez dans les différentes phases de projet et vous conseiller sur les tendance moment.  
-Pour ce qui concerne les tarifs des freelance, ils varient selon l’expérience à savoir de débutant à expert. En moyenne compter 250€ Par jours, pour un développeur web freelance intermédiaire.
+Pour ce qui concerne les **tarifs** des freelance, ils varient selon l’expérience à savoir de débutant à expert. En moyenne compter **250** euros par jours, pour un développeur web freelance intermédiaire.
 
 #### **Peut on Faire appel à un développeur web freelance quand on n’a peu de Budget ?**
 
 > Économisez de l’argent.
 
-Il est tout à fait normal que l’on est des idées et l’envie de posséder un site web pour rendre visible notre activité et la faire connaître à un grand nombre mais que l’on ne possède pas assez de budget pour faire appel à un développeur web freelance, qui nous facturera en tarif journalier ou en encore a une agence web dont les montant peuvent vite devenir élevé.
+Il est tout à fait normal que l’on est des idées et l’envie de posséder un site web pour rendre visible son activité et la faire connaître à un grand nombre mais que l’on ne possède pas assez de budget pour faire appel à un développeur web freelance, qui nous facturera en tarif journalier ou en encore a une agence web dont les montant peuvent vite devenir élevé.
 
 Sachez Néanmoins que des solutions existe au seins du marché et pour tout type de bourses.  
 Vous pouvez déposer des appels d’offres en passants par des plateforme sécurisées de freelance comme malt,feverr ou encore codeur.com qui propose un service de mise en relation avec des freelance en laissant des petites annonces pour votre projet en indiquant votre budget.  
