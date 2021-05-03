@@ -5,7 +5,7 @@ description = "Vous souhaiter développer un site web, pourquoi ne pas faire app
 draft = true
 image = "/lcdig.jpg"
 image_webp = ""
-title = "Développer son site web avec un Freelance !"
+title = "Crée son site web "
 
 +++
 Aujourd'hui, bon nombre de plateformes **CMS** tel que **Wordpress**, **Wix**, **Shopify** proposent de développer un _site_ _internet_, _Blog_ gratuit ou un site _E_- _Commerce_ contre un abonnement mensuel ou encore à l’année. Généralement penser et adapter à un public d’expérimenté ou non en développement web.
