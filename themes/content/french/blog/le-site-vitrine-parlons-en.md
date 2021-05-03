@@ -4,7 +4,7 @@ date = 2021-05-02T22:00:00Z
 description = "Vous souhaiter développer un site web, pourquoi ne pas faire appel à un développeur web freelance un professionnel qui vous reviendra moins chers. "
 image = "images/blog/lcdig.jpg"
 image1 = ""
-image_webp = ""
+image_webp = "images/blog/lcdig.webp"
 image_webp1 = ""
 title = "COMMENT CRÉER UN SITE WEB ?"
 
