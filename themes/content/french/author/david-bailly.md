@@ -1,4 +1,5 @@
 +++
+auteur = "/team1.jpg"
 email = "david.bailly@lcdigitale.fr"
 image = ""
 title = "David Bailly"
