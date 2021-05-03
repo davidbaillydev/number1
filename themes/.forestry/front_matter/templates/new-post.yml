@@ -8,12 +8,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: file
-  name: image_webp1
-  label: image_webp1
-- type: file
-  name: image1
-  label: image1
 - type: text
   name: author
   label: author
