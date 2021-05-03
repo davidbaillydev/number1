@@ -29,9 +29,9 @@ Cependant il faut pouvoir choisir Entre les différentes solutions qui s’offre
 
 > Les conseils d’un professionnel.
 
-Pour des raison pratique et technique un développeur web freelance évolue comme la plupart des agence web dans un environnement numérique de développement, et seras en mesure de mieux évaluer votre projet et pourras le réaliser plus aisément.  
-Il pourras en effets vous aidez dans les différentes phases de projet et vous conseiller sur les tendance moment.  
-Pour ce qui concerne les **tarifs** des freelance, ils varient selon l’expérience à savoir de débutant à expert. En moyenne compter **250** euros par jours, pour un développeur web freelance intermédiaire.
+* Pour des raison pratique et technique un développeur web freelance évolue comme la plupart des agence web dans un environnement numérique de développement, et seras en mesure de mieux évaluer votre projet et pourras le réaliser plus aisément.  
+  Il pourras en effets vous aidez dans les différentes phases de projet et vous conseiller sur les tendance moment.  
+  Pour ce qui concerne les **tarifs** des freelance, ils varient selon l’expérience à savoir de débutant à expert. En moyenne compter **250** euros par jours, pour un développeur web freelance intermédiaire.
 
 #### **Peut on Faire appel à un développeur web freelance quand on n’a peu de Budget ?**
 
