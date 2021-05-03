@@ -5,11 +5,9 @@ fields:
 - type: text
   name: title
   label: title
-- name: auteur
-  type: file
-  config:
-    maxSize: 64
-  label: auteur
+- type: text
+  name: image
+  label: image
 - type: text
   name: email
   label: email
@@ -23,8 +21,5 @@ fields:
   - type: text
     name: link
     label: link
-- type: text
-  name: image
-  label: image
 pages:
 - themes/content/french/author/david-bailly.md
