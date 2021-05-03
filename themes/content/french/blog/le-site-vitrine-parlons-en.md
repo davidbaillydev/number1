@@ -5,7 +5,7 @@ description = "Vous souhaiter développer un site web, pourquoi ne pas faire app
 draft = true
 image = "/lcdig.jpg"
 image_webp = "/lcdig.webp"
-title = "Crée son site web "
+title = "Comment crée son site web"
 
 +++
 Aujourd'hui, quelle que soit notre activité, on souhaite la rendre visible sur tous les canaux possibles Aussi Bien sur les réseaux sociaux comme Facebook, Twitter, Instagram, que sur Internet avec un site web reconnus par les Moteur de recherche comme Google, l’objectif étant de nous faire connaître d’un public large.
