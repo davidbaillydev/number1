@@ -8,13 +8,13 @@ image_webp = "/lcdig.webp"
 title = "Crée son site web "
 
 +++
-Aujourd'hui, Quelques soit notre activité, on souhaite la rendre visible sur tous les canaux possible Aussi Bien sur les réseaux sociaux comme Facebook, Twitter, Instagram, que sur internet avec un site web reconnus par les Moteur de recherche comme Google, l’objectif étant de nous faire connaître d’un public large.
+Aujourd'hui, quelle que soit notre activité, on souhaite la rendre visible sur tous les canaux possibles Aussi Bien sur les réseaux sociaux comme Facebook, Twitter, Instagram, que sur Internet avec un site web reconnus par les Moteur de recherche comme Google, l’objectif étant de nous faire connaître d’un public large.
 
-Heureusement, bon nombre de plateformes **CMS** tel que **Wordpress**, **Wix**, **Shopify** proposent de développer un _site_ _internet_, _Blog_ gratuit ou un site _E_- _Commerce_ contre un abonnement mensuel ou encore à l’année.  
-Ce système penser et adapter à un public expérimenté ou non expérimenté en développement web, avec des capacités financière limitées, peut être un bon compromis.
+Heureusement, bon nombre de plateformes **CMS** tel que **Wordpress, Wix, Shopify** proposent de développer un site internet, Blog gratuit ou un site E- Commerce contre un abonnement mensuel ou encore à l’année. Ce système pensé et adapter à un public expérimenté ou non expérimenté en développement web, avec des capacités financières limitées, peut être un bon compromis.
 
-Malgré la performance de ces outils CMS révolutionnaires, promettant la construction d'un site à la vitesse éclaire, cela nécessite du temps et de la patience pour arrivée à un résultat satisfaisant.  
-Si la solution du site web crée par vos soins peu s'avérer être une solution d'investissement peu coûteuse, il faut encore pouvoir être sûr que votre site internet répond à toutes les exigences lié à une présence en ligne qui doit être efficace dans le temps, pour ne pas tombé dans l’oubli et rentrée dans la toile des sites web mal lus et non répertoriés par les moteur de recherche.
+Malgré la performance de ces outils CMS révolutionnaires, promettant la construction d'un site à la vitesse, éclaire, cela nécessite du temps et de la patience pour arrivée à un résultat satisfaisant.
+
+Si la solution du site web crée par vos soins peu s'avérer être une solution d'investissement peu coûteuse, il faut encore pouvoir être sûr que votre site internet répond à toutes les exigences lié à une présence en ligne qui doit être efficace dans le temps, pour ne pas tomber dans l’oubli et rentrée dans la toile des sites web mal lus et non répertoriés par les moteurs de recherche.
 
 ![](/images/7fc1bfc9-b3e6-45ee-9ea9-bc293b9cd1dc.jpeg)
 
@@ -22,12 +22,11 @@ Si la solution du site web crée par vos soins peu s'avérer être une solution 
 
 > Gagner du temps en déléguant.
 
-Développer un site internet tout seul peut susciter des passions pour uns et une tâches désagréable pour d’autres car on peut très vite se retrouver débordé par la quantité de travail à mettre en œuvre pour que son site suive les dernières tendances et mise à jour.
+Développer un site internet tout seul peut susciter des passions pour les uns et une tâche désagréable pour d’autres, car on peut très vite se retrouver débordé par la quantité de travail à mettre en œuvre pour que son site suive les dernières tendances et mise à jour.
 
-Heureusement plusieurs solution existent pour mettre en place un site web sans ce ruiné, cependant il faut pouvoir choisir entre les différentes solutions qui s’offrent à vous ´Lorsque vous avez décider enfin de vous lancer.
+Heureusement, plusieurs solutions existent pour mettre en place un site web sans ce ruiné, cependant, il faut pouvoir choisir entre les différentes solutions qui s’offrent à vous lorsque vous avez décidé enfin de vous lancer.
 
-Et quand viens le moment de ce lancer une question ce pose... **à qui confier la réalisation de votre site web ?**  
-Plusieurs professionnels couvre le marché du développement de site web, nous y trouvons notamment des agences web ou des développeur web Freelance qui n’afficheront pas les mêmes tarifs l’agence étant onéreux C’est le freelance qui l’emporte car c’est tarif sont en dessous du marché et C’est une solution qui en termes d'investissement peut être intéressant pour tous entrepreneurs, particulier, chef d'entreprise désireux d'avoir une présence en ligne qui se veut soignée, cette solution permet ainsi de rester concentrer sur son activité principale en déléguants cette tâche  à développeur web freelance expérimenté ou débutant selon votre budget.
+Et quand viens le moment de ce lancer la question qui se pose ! **À qui confier la réalisation de votre site web ?** Plusieurs professionnels couvre le marché du développement de site web, nous y trouvons notamment des agences web ou des développeur web Freelance qui n’afficheront pas les mêmes tarifs l’agence étant onéreux C’est le freelance qui l’emporte car c’est tarif sont en dessous du marché et C’est une solution qui en termes d'investissement peut être intéressant pour tous entrepreneurs, particulier, chef d'entreprise désireux d'avoir une présence en ligne qui se veut soignée, cette solution permet ainsi de rester concentrer sur son activité principale en déléguants cette tâche à développeur web freelance expérimenté ou débutant selon votre budget.
 
 #### **Pourquoi choisir de faire developper son site web par un freelance  ?**
 
