@@ -8,7 +8,7 @@ image_webp = ""
 title = "Crée son site web "
 
 +++
-Aujourd'hui, bon nombre de plateformes **CMS** tel que **Wordpress**, **Wix**, **Shopify** proposent de développer un _site_ _internet_, _Blog_ gratuit ou un site _E_- _Commerce_ contre un abonnement mensuel ou encore à l’année. Généralement penser et adapter à un public d’expérimenté ou non en développement web.
+Aujourd'hui, quelque soit notre activité, on souhaite la rendre visible sur tous les canaux possible Aussi bien sur les réseaux sociaux que sur internet nous voulons nous faire connaître à un public large bon nombre de plateformes **CMS** tel que **Wordpress**, **Wix**, **Shopify** proposent de développer un _site_ _internet_, _Blog_ gratuit ou un site _E_- _Commerce_ contre un abonnement mensuel ou encore à l’année. Généralement penser et adapter à un public d’expérimenté ou non en développement web.
 
 Malgré la performance de ces plateformes révolutionnaires promettant la construction d'un site à la vitesse éclaire, cela nécessite du temps et de la patience pour arrivée à un résultat satisfaisant.  
 Si la solution du site web crée par vos soins peu s'avérer être une solution d'investissement peu coûteuse, il faut encore pouvoir être sûr que votre site internet répond à toutes les exigences lié à une présence en ligne qui doit être efficace dans le temps.
@@ -44,12 +44,12 @@ Cela vous permettra de comparer les différents proposition de devis, et ainsi g
 
 > La proximité et la flexibilité des tarifs.
 
-Les avantages à faire appel à un développeur web freelance ne manque pas en effet, ce sont des professionnels indépendants, qui on choisit une manière propre à eux d’exercer leur activité, noté qu’ils ont généralement un site web ou un portfolio qui présente les différents projet qu’ils ont pu réaliser et qui peut être une source d’informations fiables sur la qualité des projets réalisés et livrés.   
-  
+Les avantages à faire appel à un développeur web freelance ne manque pas en effet, ce sont des professionnels indépendants, qui on choisit une manière propre à eux d’exercer leur activité, noté qu’ils ont généralement un site web ou un portfolio qui présente les différents projet qu’ils ont pu réaliser et qui peut être une source d’informations fiables sur la qualité des projets réalisés et livrés.
+
 Un développeur web freelance aura tout intérêt à instauré une relation de confiance et de proximité, car il travaille en direct avec vous. Il est en mesure de comprendre votre environnement de travail et de s’accorder à vos contraintes. Il sera aussi plus accessible tout au long du projet, et même après sa réalisation. Et seras plus flexible en terme d’horaire.
 
 # En conclusion
 
-Il est devenu facile depuis quelques années maintenant de pouvoir s’offrir un site web à moindre coût, le numérique évoluant constamment, il se veut aussi plus accessible à tous.  
-  
+Il est devenu facile depuis quelques années maintenant de pouvoir s’offrir un site web à moindre coût, le numérique évoluant constamment, il se veut aussi plus accessible à tous.
+
 Il est cependant difficile de s’y retrouver quand il s’agit de se lancer, entre **plateformes** **CMS** Tel que **WordPress**, **Wix**, **Shopify** en passants par des **Agences** **web** ou **Freelance** **web**. Il y’a en effet aujourd’hui en 2021 une multitude d’aspects à prendre en compte quand on souhaite créer son site web. Au final, il ne faut pas hésiter à utiliser ou comparer toute, c’est solution entre elles pour mieux faire correspondre votre besoin au plus près de votre projet.
