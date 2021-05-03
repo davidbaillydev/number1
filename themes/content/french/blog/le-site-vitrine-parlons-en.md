@@ -26,7 +26,7 @@ Développer un site internet tout seul peut susciter des passions pour uns et un
 
 Heureusement plusieurs solution existent pour mettre en place un site web sans ce ruiné, cependant il faut pouvoir choisir entre les différentes solutions qui s’offrent à vous ´Lorsque vous avez décider enfin de vous lancer.
 
-Et quand viens le moment de ce lancer une question ce pose... **à qui confier la réalisation de votre site web ?**   
+Et quand viens le moment de ce lancer une question ce pose... **à qui confier la réalisation de votre site web ?**  
 Plusieurs professionnels couvre le marché du développement de site web, nous y trouvons notamment des agences web ou des développeur web Freelance qui n’afficheront pas les mêmes tarifs l’agence étant onéreux C’est le freelance qui l’emporte car c’est tarif sont en dessous du marché et C’est une solution qui en termes d'investissement peut être intéressant pour tous entrepreneurs, particulier, chef d'entreprise désireux d'avoir une présence en ligne qui se veut soignée, cette solution permet ainsi de rester concentrer sur son activité principale en déléguants cette tâche  à développeur web freelance expérimenté ou débutant selon votre budget.
 
 #### **Pourquoi choisir de faire developper son site web par un freelance  ?**
