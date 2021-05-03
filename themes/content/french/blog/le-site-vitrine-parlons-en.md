@@ -8,13 +8,13 @@ image_webp = ""
 title = "Crée son site web "
 
 +++
-Aujourd'hui, quelque soit notre activité, on souhaite la rendre visible sur tous les canaux possible Aussi bien sur les réseaux sociaux Comme Facebook, Twitter, Instagram, que sur internet avec un site web reconnus par les moteur de recherche comme Google, l’objectif étant de nous faire connaître d’un public large.
+Aujourd'hui, Quelques soit Notre activité, on souhaite la rendre visible sur tous les canaux possible Aussi Bien sur les réseaux sociaux comme Facebook, Twitter, Instagram, que sur internet Avec un site web reconnus par les Moteur de recherche comme Google, l’objectif étant de nous faire connaître d’un public large.
 
-Heureusement, bon nombre de plateformes **CMS** tel que **Wordpress**, **Wix**, **Shopify** proposent de développer un _site_ _internet_, _Blog_ gratuit ou un site _E_- _Commerce_ contre un abonnement mensuel ou encore à l’année.   
+Heureusement, bon nombre de plateformes **CMS** tel que **Wordpress**, **Wix**, **Shopify** proposent de développer un _site_ _internet_, _Blog_ gratuit ou un site _E_- _Commerce_ contre un abonnement mensuel ou encore à l’année.  
 Ce système penser et adapter à un public expérimenté ou non en développement web, avec des capacités financière limitées, peut être un bon compromis.
 
 Malgré la performance de ces plateformes révolutionnaires promettant la construction d'un site à la vitesse éclaire, cela nécessite du temps et de la patience pour arrivée à un résultat satisfaisant.  
-Si la solution du site web crée par vos soins peu s'avérer être une solution d'investissement peu coûteuse, il faut encore pouvoir être sûr que votre site internet répond à toutes les exigences lié à une présence en ligne qui doit être efficace dans le temps, pour ne pas tombé dans l’oubli et rentrée dans la toile des sites web mal lus et non répertoriés par les moteur de recherche. 
+Si la solution du site web crée par vos soins peu s'avérer être une solution d'investissement peu coûteuse, il faut encore pouvoir être sûr que votre site internet répond à toutes les exigences lié à une présence en ligne qui doit être efficace dans le temps, pour ne pas tombé dans l’oubli et rentrée dans la toile des sites web mal lus et non répertoriés par les moteur de recherche.
 
 ![](/images/7fc1bfc9-b3e6-45ee-9ea9-bc293b9cd1dc.jpeg)
 
