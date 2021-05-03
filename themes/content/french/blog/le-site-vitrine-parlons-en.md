@@ -28,25 +28,23 @@ Heureusement, plusieurs solutions existent pour mettre en place un site web sans
 
 Et quand viens le moment de ce lancer la question qui se pose ! **À qui confier la réalisation de votre site web ?** Plusieurs professionnels couvre le marché du développement de site web, nous y trouvons notamment des agences web ou des développeur web Freelance qui n’afficheront pas les mêmes tarifs l’agence étant onéreux C’est le freelance qui l’emporte car c’est tarif sont en dessous du marché et C’est une solution qui en termes d'investissement peut être intéressant pour tous entrepreneurs, particulier, chef d'entreprise désireux d'avoir une présence en ligne qui se veut soignée, cette solution permet ainsi de rester concentrer sur son activité principale en déléguants cette tâche à développeur web freelance expérimenté ou débutant selon votre budget.
 
-#### **Pourquoi choisir de faire developper son site web par un freelance  ?**
+#### Pourquoi choisir de faire développer son site web par un freelance ?
 
-> Les conseils d’un professionnel.
+* Pour des raison pratique et technique un développeur web freelance évolue comme la plupart des agences web dans un environnement numérique de développement, et seras en mesure de mieux évaluer votre projet et pourras le réaliser plus aisément. Il pourra en effet vous aider dans les différentes phases de projet et vous conseiller sur les tendances moment. Pour ce qui concerne les tarifs des freelances, ils varient selon l’expérience à savoir pour un débutant à expert. En moyenne compter **250 euros par jour**, pour un développeur web freelance intermédiaire.
 
-* Pour des raison pratique et technique un développeur web freelance évolue comme la plupart des agence web dans un environnement numérique de développement, et seras en mesure de mieux évaluer votre projet et pourras le réaliser plus aisément.  
-  Il pourras en effets vous aidez dans les différentes phases de projet et vous conseiller sur les tendance moment.  
-  Pour ce qui concerne les **tarifs** des freelance, ils varient selon l’expérience à savoir de débutant à expert. En moyenne compter **250** euros par jours, pour un développeur web freelance intermédiaire.
+#### Peut-on faire appel à un développeur web freelance quand on a peu de Budget ?
 
-#### **Peut on Faire appel à un développeur web freelance quand on n’a peu de Budget ?**
+Il est tout à fait normal de nos jours de vouloir être à la page en ayant un site web pour rendre visible son activité et la faire connaître à un grand nombre.  
+Mais il arrive à nombreux professionnels ou indépendant qui débute leurs activités de ne pas posséder assez voir très peu de budget pour faire appel un développeur web freelance, qui facture en moyenne un tarif journalier ou en encore de confié ce projet à une agence web dont les montant peuvent vite devenir élevé.
 
 > Économisez de l’argent.
 
-Il est tout à fait normal que l’on est des idées et l’envie de posséder un site web pour rendre visible son activité et la faire connaître à un grand nombre mais que l’on ne possède pas assez de budget pour faire appel à un développeur web freelance, qui nous facturera en tarif journalier ou en encore a une agence web dont les montant peuvent vite devenir élevé.
+Sachez néanmoins que des solutions existent au sein du marché et pour tout type de bourses. Vous pouvez déposer des appels d’offres en passants par des plateformes sécurisées de freelance comme malt, feverr, 5euro, ou encore codeur.com qui propose un service et micro service de mise en relation avec des freelances en laissant des petites annonces pour votre projet en indiquant votre budget.
 
-Sachez Néanmoins que des solutions existe au seins du marché et pour tout type de bourses.  
-Vous pouvez déposer des appels d’offres en passants par des plateforme sécurisées de freelance comme malt,feverr ou encore codeur.com qui propose un service de mise en relation avec des freelance en laissant des petites annonces pour votre projet en indiquant votre budget.  
-Cela vous permettra de comparer les différents proposition de devis, et ainsi garder la main sur vos finances.
+  
+Cela vous permettra de comparer les différentes propositions de devis, et ainsi garder la main sur vos finances.
 
-#### **Quel sont les avantages de faire appel à un développeur web freelance ?**
+#### Quels sont les avantages de faire appel à un développeur web freelance ?
 
 > La proximité et la flexibilité des tarifs.
 
