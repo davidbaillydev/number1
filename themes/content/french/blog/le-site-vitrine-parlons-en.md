@@ -23,7 +23,7 @@ Si la solution du site web crée par vos soins peu s'avérer être une solution 
 > Gagner du temps en déléguant.
 
 Développer un site internet tout seul peut être passionnant.Mais on peut très vite se retrouver débordé par la quantité de travail à mettre en œuvre pour que son site suive les dernières tendances et mise à jour.  
-Cependant il faut pouvoir choisir Entre les différentes solutions qui s’offrent à vous ´Lorsque vous avez décider enfin de vous lancer une question ce pose... à qui confier la réalisation de votre site web ?  un développeur web Freelance est une solution qui en termes d'investissement peut être intéressant pour tous entrepreneurs, particulier, chef d'entreprise désireux d'avoir une présence en ligne qui se veut soignée, cette solution permet ainsi de rester concentrer sur son activité principale en déléguants cette tâche  à développeur web freelance expérimenté ou débutant selon votre budget.
+Cependant il faut pouvoir choisir Entre les différentes solutions qui s’offrent à vous ´Lorsque vous avez décider enfin de vous lancer une question ce pose... à qui confier la réalisation de votre site web ? Plusieurs professionnels couvre le marché du développement de site web, nous y trouvons notamment des agences web ou des freelance  un développeur web Freelance est une solution qui en termes d'investissement peut être intéressant pour tous entrepreneurs, particulier, chef d'entreprise désireux d'avoir une présence en ligne qui se veut soignée, cette solution permet ainsi de rester concentrer sur son activité principale en déléguants cette tâche  à développeur web freelance expérimenté ou débutant selon votre budget.
 
 #### **Pourquoi choisir de faire developper son site web par un freelance  ?**
 
