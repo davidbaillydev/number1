@@ -2,8 +2,8 @@
 author = "David Bailly"
 date = 2021-05-02T22:00:00Z
 description = "Vous souhaiter développer un site web, pourquoi ne pas faire appel à un développeur web freelance un professionnel qui vous reviendra moins chers. "
-image = "/lcdig.jpg"
-image_webp = "/lcdig.webp"
+image = "/creation.jpg"
+image_webp = ""
 title = "COMMENT CRÉER UN SITE WEB ?"
 
 +++
@@ -14,8 +14,6 @@ Heureusement, bon nombre de plateformes **CMS** tel que **Wordpress, Wix, Shopif
 Malgré la performance de ces outils CMS révolutionnaires, promettant la construction d'un site à la vitesse, éclaire, cela nécessite du temps et de la patience pour arrivée à un résultat satisfaisant.
 
 Si la solution du site web crée par vos soins peu s'avérer être une solution d'investissement peu coûteuse, il faut encore pouvoir être sûr que votre site internet répond à toutes les exigences lié à une présence en ligne qui doit être efficace dans le temps, pour ne pas tomber dans l’oubli et rentrée dans la toile des sites web mal lus et non répertoriés par les moteurs de recherche.
-
-![](/images/7fc1bfc9-b3e6-45ee-9ea9-bc293b9cd1dc.jpeg)
 
 ### Un Freelance pour son site web !
 
@@ -40,7 +38,6 @@ Mais il arrive à nombreux professionnels ou indépendant qui débute leurs acti
 
 Sachez néanmoins que des solutions existent au sein du marché et pour tout type de bourses. Vous pouvez déposer des appels d’offres en passants par des plateformes sécurisées de freelance comme malt, feverr, 5euro, ou encore codeur.com qui propose un service et micro service de mise en relation avec des freelances en laissant des petites annonces pour votre projet en indiquant votre budget.
 
-  
 Cela vous permettra de comparer les différentes propositions de devis, et ainsi garder la main sur vos finances.
 
 #### Quels sont les avantages de faire appel à un développeur web freelance ?
