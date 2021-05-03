@@ -1,7 +1,7 @@
 +++
 auteur = "/team1.jpg"
 email = "david.bailly@lcdigitale.fr"
-image = ""
+image = "images/blog/auteur.jpg"
 title = "David Bailly"
 [[social]]
 icon = "ti-facebook"
