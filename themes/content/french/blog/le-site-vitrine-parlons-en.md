@@ -38,7 +38,7 @@ Mais il arrive à nombreux **professionnels ou indépendant** qui débute leurs 
 
 > Économisez de l’argent.
 
-Sachez néanmoins que des solutions existent au sein du marché et pour tout type de bourses. Vous pouvez déposer des appels d’offres en passants par des **plateformes sécurisées de freelance comme** [**malt**](https://www.malt.fr/profile/davidbailly2 "Malt")**, feverr, 5euro, ou encore codeur.com** qui propose un service et micro service de mise en relation avec des freelances en laissant des petites annonces pour votre projet en indiquant votre budget.
+Sachez néanmoins que des solutions existent au sein du marché adapter selon vos goût et pour tout type de bourses. Vous pouvez déposer des appels d’offres en passants par des **plateformes sécurisées de freelance comme** [**malt**](https://www.malt.fr/profile/davidbailly2 "Malt")**, feverr, 5euro, ou encore codeur.com** qui propose un service et micro service de mise en relation avec des freelances en laissant des petites annonces pour votre projet en indiquant votre budget.
 
 Cela vous permettra de comparer les différentes propositions de devis, et ainsi garder la main sur vos finances.
 
