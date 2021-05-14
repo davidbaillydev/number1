@@ -4,7 +4,7 @@ banner:
   bg_image_webp : "images/backgrounds/lc-hero.webp"
   bg_image : "images/backgrounds/lc-hero.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Développeur Web Freelance en Marketing Digital" 
+  title : "Développeur Web indépendant" 
   content : " LCDIGITALE, création de sites web, vitrine, corporate, e-commerce. Conception graphique, logos, plaquettes publicitaires. Marketing Numérique, communication, Seo optimisé."
   button:
     enable : true
