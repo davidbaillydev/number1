@@ -4,8 +4,8 @@ banner:
   bg_image_webp : "images/backgrounds/lc-hero.webp"
   bg_image : "images/backgrounds/lc-hero.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Le Numérique Intégré"
-  content : " Travailler avec un partenaire freelance, c'est choisir une collaboration de proximités, une compréhension mutuelle, une confiance et un accompagnement pour votre futur projet!"
+  title : "Développeur Web Freelance en Marketing Digital" 
+  content : " LCDIGITALE, création de sites web, vitrine, corporate, e-commerce. Conception graphique, logos, plaquettes publicitaires. Marketing Numérique, communication, Seo optimisé."
   button:
     enable : true
     label : "Découvrez Nous"
