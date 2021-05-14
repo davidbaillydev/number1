@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://www.lcdigitale.fr"
-title = "La Communication Digitale - Développeur Web freelance - création de site web"
+title = "LCDIGITALE- Développeur Web Indépendant - création de sites web"
 defaultContentLanguage = "fr"
 languageCode = "fr"
 themes = "meghna-hugo"
@@ -149,7 +149,7 @@ weight = 7
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Développeur web freelance à toulouse, conseil, accompagnement, création de site web adapter à différent type de projet."
+description = "Développeur web à Blagnac. LCDIGITALE, création de sites web, vitrine, corporate, e-commerce. Conception graphique, logos, plaquettes publicitaires. Marketing Numérique, communication, Seo optimisé."
 author = "David Bailly"
 # Google Analytics
 google_analytics_id = "G-1W0S9VCFWZ" # Your ID
