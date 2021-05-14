@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.lcdigitale.fr/blog/</loc>
+    <lastmod>2021-05-02T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lcdigitale.fr/</loc>
+    <lastmod>2021-05-02T22:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.lcdigitale.fr/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.lcdigitale.fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.lcdigitale.fr/blog/quelles-solutions-pour-cr%C3%A9er-un-site-web-/</loc>
+    <lastmod>2021-05-02T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.lcdigitale.fr/author/</loc>
     <xhtml:link
                 rel="alternate"
@@ -32,20 +57,6 @@
   
   <url>
     <loc>https://www.lcdigitale.fr/author/david-bailly/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.lcdigitale.fr/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.lcdigitale.fr/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.lcdigitale.fr/"
-                />
   </url>
   
   <url>

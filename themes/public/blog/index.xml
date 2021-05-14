@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LCDIGITALE- Développeur Web Indépendant - création de sites web</title>
-    <link>https://www.lcdigitale.fr/</link>
-    <description>Recent content on LCDIGITALE- Développeur Web Indépendant - création de sites web</description>
+    <title>Blogs on LCDIGITALE- Développeur Web Indépendant - création de sites web</title>
+    <link>https://www.lcdigitale.fr/blog/</link>
+    <description>Recent content in Blogs on LCDIGITALE- Développeur Web Indépendant - création de sites web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Copyright &amp;copy; 2021 Conception par [Lc Digitale](https://lcdigitale.fr) &amp; Développé par [David Bailly](https://davidbailly.fr)</copyright>
-    <lastBuildDate>Sun, 02 May 2021 22:00:00 +0000</lastBuildDate><atom:link href="https://www.lcdigitale.fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 May 2021 22:00:00 +0000</lastBuildDate><atom:link href="https://www.lcdigitale.fr/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quelles Solutions Pour Créer un Site web ?</title>
       <link>https://www.lcdigitale.fr/blog/quelles-solutions-pour-cr%C3%A9er-un-site-web-/</link>
@@ -15,15 +15,6 @@
       
       <guid>https://www.lcdigitale.fr/blog/quelles-solutions-pour-cr%C3%A9er-un-site-web-/</guid>
       <description>Aujourd&amp;rsquo;hui, quelle que soit notre activité, on souhaite la rendre visible sur tous les canaux possibles Aussi Bien sur les réseaux sociaux comme Facebook, Twitter, Instagram, que sur Internet avec un site web reconnus par les Moteur de recherche comme Google, l’objectif étant de nous faire connaître d’un public large.</description>
-    </item>
-    
-    <item>
-      <title>David Bailly</title>
-      <link>https://www.lcdigitale.fr/author/david-bailly/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lcdigitale.fr/author/david-bailly/</guid>
-      <description>Parce que j’aime pour résoudre les problèmes de conception et trouver des solutions simples et meilleures pour les résoudre.</description>
     </item>
     
   </channel>
