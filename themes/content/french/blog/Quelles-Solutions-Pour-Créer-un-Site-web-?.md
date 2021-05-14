@@ -7,7 +7,6 @@ image1 = ""
 image_webp = "images/blog/lcdig.webp"
 image_webp1 = ""
 title = "QUELLES SOLUTIONS POUR CRÉER UN SITE WEB ?"
-
 +++
 Aujourd'hui, quelle que soit notre activité, on souhaite la rendre visible sur tous les canaux possibles Aussi Bien sur les réseaux sociaux comme **Facebook, Twitter, Instagram,** que sur Internet avec un site web reconnus par les Moteur de recherche comme Google, l’objectif étant de nous faire connaître d’un public large.
 
