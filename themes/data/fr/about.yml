@@ -1,7 +1,7 @@
 ############################# About ###################################
 about:
   enable : true
-  title : Trois Axes de collaboration
+  title : 3,Axes
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : Créatifs
