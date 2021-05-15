@@ -1,6 +1,6 @@
 ---
 title: David Bailly
-image: ''
+image: images/blog/team1.jpg
 email: david.bailly@lcdigitale.fr
 social:
 - icon: ti-facebook
