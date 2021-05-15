@@ -25,3 +25,17 @@ Developing a website on your own can be a passion for some and an unpleasant tas
 Fortunately, several solutions exist to set up a website without going broke, however, it is necessary to be able to choose between the different solutions that are available to you when you finally decide to launch.
 
 And when the time comes to launch the question that arises! To whom to entrust the realization of your website? Several professionals cover the market for the development of website, we find in particular web agencies or web developer Freelance who will not display the same rates the agency being expensive It is the freelance who prevails because it is rate are below the market and It is a solution that in terms of investment can be interesting for all entrepreneurs, This is a solution that in terms of investment can be interesting for all entrepreneurs, individuals, business leaders wishing to have an online presence that is neat, this solution allows you to stay focused on your core business by delegating this task to freelance web developer experienced or beginner depending on your budget.
+
+#### Why choose to have your website developed by a freelancer?
+
+For practical and technical reasons, a freelance web developer evolves like most web agencies in a digital development environment, and will be able to better evaluate your project and realize it more easily. He will indeed be able to help you in the different phases of the project and advise you on the current trends. Regarding the rates of freelancers, they vary according to the experience for a beginner to expert. On average count 250 euros per day, for an intermediate freelance web developer.
+
+#### Can we use a freelance web developer when we have little budget?
+
+It is quite normal nowadays to want to be on the page by having a website to make visible its activity and make it known to a large number of people, but it happens to many professionals or freelancers who begin their activities do not have enough or very little budget to call a freelance web developer, who charges a daily rate on average or entrusted this project to a web agency whose amount can quickly become high.
+
+> Save yourself some money.
+
+Nevertheless, you should know that solutions exist within the market and for all types of grants. You can submit tenders through secure freelance platforms such as malt, feverr, 5euro, or even codeur.com which offers a service and micro service to connect with freelancers by leaving classified ads for your project and indicating your budget.
+
+This will allow you to compare the different quotes, and thus keep control of your finances.
