@@ -39,3 +39,11 @@ It is quite normal nowadays to want to be on the page by having a website to mak
 Nevertheless, you should know that solutions exist within the market and for all types of grants. You can submit tenders through secure freelance platforms such as malt, feverr, 5euro, or even codeur.com which offers a service and micro service to connect with freelancers by leaving classified ads for your project and indicating your budget.
 
 This will allow you to compare the different quotes, and thus keep control of your finances.
+
+#### What are the advantages of using a freelance web developer?
+
+> The proximity and flexibility of rates.
+
+The advantages of using a freelance web developer are not lacking indeed, they are independent professionals, who have chosen a way of exercising their own activity, noted that they usually have a website or a portfolio that presents the different projects they have done and that can be a source of reliable information on the quality of projects done and delivered.
+
+A freelance web developer will have to establish a relationship of trust and proximity, because he works directly with you. He is able to understand your working environment and to adapt to your constraints. He will also be more accessible throughout the project, and even after its completion. And will be more flexible in terms of schedule.
