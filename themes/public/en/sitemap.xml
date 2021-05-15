@@ -3,93 +3,93 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.lcdigitale.fr/blog/</loc>
+    <loc>https://www.lcdigitale.fr/en/blog/</loc>
     <lastmod>2021-05-02T22:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.lcdigitale.fr/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://www.lcdigitale.fr/blog/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.lcdigitale.fr/en/blog/"
+                />
   </url>
   
   <url>
-    <loc>https://www.lcdigitale.fr/</loc>
+    <loc>https://www.lcdigitale.fr/en/</loc>
     <lastmod>2021-05-02T22:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.lcdigitale.fr/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://www.lcdigitale.fr/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.lcdigitale.fr/en/"
+                />
   </url>
   
   <url>
-    <loc>https://www.lcdigitale.fr/blog/which-solutions-to-create-a-website/</loc>
+    <loc>https://www.lcdigitale.fr/en/blog/which-solutions-to-create-a-website/</loc>
     <lastmod>2021-05-02T22:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lcdigitale.fr/author/</loc>
+    <loc>https://www.lcdigitale.fr/en/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.lcdigitale.fr/fr/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://www.lcdigitale.fr/author/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.lcdigitale.fr/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.lcdigitale.fr/fr/categories/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://www.lcdigitale.fr/en/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.lcdigitale.fr/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="https://www.lcdigitale.fr/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.lcdigitale.fr/author/david-bailly/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.lcdigitale.fr/fr/author/david-bailly/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://www.lcdigitale.fr/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.lcdigitale.fr/en/author/david-bailly/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="https://www.lcdigitale.fr/author/david-bailly/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.lcdigitale.fr/en/author/david-bailly/"
+                />
   </url>
   
   <url>
-    <loc>https://www.lcdigitale.fr/tags/</loc>
+    <loc>https://www.lcdigitale.fr/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.lcdigitale.fr/fr/tags/"
+                href="https://www.lcdigitale.fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.lcdigitale.fr/tags/"
+                href="https://www.lcdigitale.fr/en/tags/"
                 />
   </url>
   
