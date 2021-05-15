@@ -24,3 +24,5 @@ fields:
   config:
     required: false
   label: image
+pages:
+- themes/content/english/which-solutions-to-create-a-website.md
