@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.lcdigitale.fr/blog/</loc>
+    <loc>https://www.lcdigitale.fr/fr/blog/</loc>
     <lastmod>2021-05-02T22:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -13,12 +13,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.lcdigitale.fr/blog/"
+                href="https://www.lcdigitale.fr/fr/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://www.lcdigitale.fr/</loc>
+    <loc>https://www.lcdigitale.fr/fr/</loc>
     <lastmod>2021-05-02T22:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -28,17 +28,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.lcdigitale.fr/"
+                href="https://www.lcdigitale.fr/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://www.lcdigitale.fr/blog/quelles-solutions-pour-cr%C3%A9er-un-site-web-/</loc>
+    <loc>https://www.lcdigitale.fr/fr/blog/quelles-solutions-pour-cr%C3%A9er-un-site-web-/</loc>
     <lastmod>2021-05-02T22:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lcdigitale.fr/author/</loc>
+    <loc>https://www.lcdigitale.fr/fr/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -47,12 +47,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.lcdigitale.fr/author/"
+                href="https://www.lcdigitale.fr/fr/author/"
                 />
   </url>
   
   <url>
-    <loc>https://www.lcdigitale.fr/categories/</loc>
+    <loc>https://www.lcdigitale.fr/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -61,12 +61,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.lcdigitale.fr/categories/"
+                href="https://www.lcdigitale.fr/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://www.lcdigitale.fr/author/david-bailly/</loc>
+    <loc>https://www.lcdigitale.fr/fr/author/david-bailly/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -75,12 +75,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.lcdigitale.fr/author/david-bailly/"
+                href="https://www.lcdigitale.fr/fr/author/david-bailly/"
                 />
   </url>
   
   <url>
-    <loc>https://www.lcdigitale.fr/tags/</loc>
+    <loc>https://www.lcdigitale.fr/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -89,7 +89,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.lcdigitale.fr/tags/"
+                href="https://www.lcdigitale.fr/fr/tags/"
                 />
   </url>
   
