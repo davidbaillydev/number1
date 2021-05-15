@@ -47,3 +47,9 @@ This will allow you to compare the different quotes, and thus keep control of yo
 The advantages of using a freelance web developer are not lacking indeed, they are independent professionals, who have chosen a way of exercising their own activity, noted that they usually have a website or a portfolio that presents the different projects they have done and that can be a source of reliable information on the quality of projects done and delivered.
 
 A freelance web developer will have to establish a relationship of trust and proximity, because he works directly with you. He is able to understand your working environment and to adapt to your constraints. He will also be more accessible throughout the project, and even after its completion. And will be more flexible in terms of schedule.
+
+# To conclude
+
+It has become easy for a few years now to afford a website at lower cost, the digital evolving constantly, it is also more accessible to all.
+
+However, it is difficult to find your way around when it comes to launching a website, between CMS platforms such as WordPress, Wix, Shopify through web agencies or freelance web. There are indeed today in 2021 a multitude of aspects to take into account when you want to create your website. In the end, you should not hesitate to use or compare all these solutions between them, to better match your needs to your project.
