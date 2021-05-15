@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LCDIGITALE- Développeur Web Indépendant - création de sites web</title>
-    <link>https://www.lcdigitale.fr/en/</link>
+    <link>https://www.lcdigitale.fr/</link>
     <description>Recent content on LCDIGITALE- Développeur Web Indépendant - création de sites web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 Designed by [Lc Digitale](https://lcdigitale.fr) &amp; Developed by [David Bailly](https://davidbailly.fr)</copyright>
-    <lastBuildDate>Sun, 02 May 2021 22:00:00 +0000</lastBuildDate><atom:link href="https://www.lcdigitale.fr/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 May 2021 22:00:00 +0000</lastBuildDate><atom:link href="https://www.lcdigitale.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Which solutions to create a website ?</title>
-      <link>https://www.lcdigitale.fr/en/blog/which-solutions-to-create-a-website/</link>
+      <link>https://www.lcdigitale.fr/blog/which-solutions-to-create-a-website/</link>
       <pubDate>Sun, 02 May 2021 22:00:00 +0000</pubDate>
       
-      <guid>https://www.lcdigitale.fr/en/blog/which-solutions-to-create-a-website/</guid>
+      <guid>https://www.lcdigitale.fr/blog/which-solutions-to-create-a-website/</guid>
       <description>Today, whatever our activity, we want to make it visible on all possible channels as well as on social networks such as Facebook, Twitter, Instagram, and on the Internet with a website recognized by search engines such as Google, the objective being to make ourselves known to a wide audience.</description>
     </item>
     
     <item>
       <title>David Bailly</title>
-      <link>https://www.lcdigitale.fr/en/author/david-bailly/</link>
+      <link>https://www.lcdigitale.fr/author/david-bailly/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lcdigitale.fr/en/author/david-bailly/</guid>
+      <guid>https://www.lcdigitale.fr/author/david-bailly/</guid>
       <description>Because I love to solve design problems and find simple and better solutions to solve them.</description>
     </item>
     
