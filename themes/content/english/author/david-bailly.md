@@ -11,4 +11,6 @@ social:
   link: "#"
 
 ---
-I love working in user experience and user interface design. Because I love to solve the design problem and find better and simpler solutions to solve it. I always do my best to create a good user interface with the best user experience.
+Because I love to solve design problems and find simple and better solutions to solve them. I always do my best to create a good user interface with the best user experience.
+
+My goal is to build a strong professional support network among all freelancers and startups to improve their performance. It's also to work closely together and have a proximity in the different exchanges and projects, in a word a partnership that wins.
