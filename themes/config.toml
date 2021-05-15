@@ -1,5 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://www.lcdigitale.fr"
+#baseURL = "https://www.lcdigitale.fr"
+baseURL = "/"
 title = "LCDIGITALE- Développeur Web Indépendant - création de sites web"
 defaultContentLanguage = "fr"
 #languageCode = "fr"
