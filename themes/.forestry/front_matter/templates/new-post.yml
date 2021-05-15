@@ -25,4 +25,5 @@ fields:
     required: false
   label: image
 pages:
+- themes/content/english/blog/which-solutions-to-create-a-website.md
 - themes/content/english/which-solutions-to-create-a-website.md
