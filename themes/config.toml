@@ -157,7 +157,7 @@ google_analytics_id = "G-1W0S9VCFWZ" # Your ID
 post_share = true
 
 #base canonique
-canonicalUrl = "https://www.lcdigitale.fr/fr"
+canonicalUrl = "https://www.lcdigitale.fr"
 
 # preloader
 [params.preloader]
@@ -215,7 +215,7 @@ copyright = "Copyright &copy; 2020 Designed by [Lc Digitale](https://lcdigitale.
 
 ################################ France Language ########################
 [Languages.fr]
-#baseURL = "https://www.lcdigitale.fr/fr"
+baseURL = "https://www.lcdigitale.fr"
 languageName = "Français"
 languageCode = "fr-fr"
 contentDir = "content/french"
