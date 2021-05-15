@@ -57,6 +57,16 @@
   
   <url>
     <loc>https://www.lcdigitale.fr/author/david-bailly/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.lcdigitale.fr/en/author/david-bailly/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.lcdigitale.fr/author/david-bailly/"
+                />
   </url>
   
   <url>
