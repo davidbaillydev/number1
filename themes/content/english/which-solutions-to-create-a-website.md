@@ -19,3 +19,11 @@ If the solution of the website created by your care can be a solution of inexpen
 ### A Freelance for your website!
 
 > Saving time by delegating.
+
+Developing a website on your own can be a passion for some and an unpleasant task for others, because you can quickly find yourself overwhelmed by the amount of work you have to do to keep your site up to date with the latest trends and updates.
+
+Fortunately, several solutions exist to set up a website without going broke, however, it is necessary to be able to choose between the different solutions that are available to you when you finally decide to launch.
+
+And when the time comes to launch the question that arises! To whom to entrust the realization of your website? Several professionals cover the market for the development of website, we find in particular web agencies or web developer Freelance who will not display the same rates the agency being expensive It is the freelance who prevails because it is rate are below the market and It is a solution that in terms of investment can be interesting for all entrepreneurs, This is a solution that in terms of investment can be interesting for all entrepreneurs, individuals, business leaders wishing to have an online presence that is neat, this solution allows you to stay focused on your core business by delegating this task to freelance web developer experienced or beginner depending on your budget.
+
+Translated with www.DeepL.com/Translator (free version)
