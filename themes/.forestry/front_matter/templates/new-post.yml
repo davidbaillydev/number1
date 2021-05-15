@@ -24,5 +24,3 @@ fields:
   config:
     required: false
   label: image
-pages:
-- themes/content/french/blog/le-site-vitrine-parlons-en.md
