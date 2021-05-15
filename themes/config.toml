@@ -215,7 +215,7 @@ copyright = "Copyright &copy; 2020 Designed by [Lc Digitale](https://lcdigitale.
 
 ################################ France Language ########################
 [Languages.fr]
-baseURL = "https://www.lcdigitale.fr/fr"
+#baseURL = "https://www.lcdigitale.fr/fr"
 languageName = "Français"
 languageCode = "fr-fr"
 contentDir = "content/french"
