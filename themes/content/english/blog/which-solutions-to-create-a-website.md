@@ -1,6 +1,6 @@
 +++
 author = "David Bailly"
-date = 2021-05-02T22:00:00Z
+date = 2021-05-03T22:00:00Z
 description = "You want to develop a website, why not use a freelance web developer a professional that will cost you less."
 image = "images/blog/lcdig.jpg"
 image_webp = "images/blog/lcdig.webp"
