@@ -7,9 +7,9 @@
 - id: share
   translation: Share
 - id: aboutAuthor
-  translation: About author
+  translation: About Me
 - id: authorsPosts
-  translation: Author's posts
+  translation: Our Posts
 - id: all
   translation: All
 - id: about

@@ -1,5 +1,5 @@
 - id: blogTitle
-  translation: Dernier message
+  translation: Dernier Article
 - id: readMore
   translation: Lire la suite
 - id: viewAllPost
@@ -7,13 +7,13 @@
 - id: share
   translation: Partager
 - id: aboutAuthor
-  translation: À propos de l'auteur
+  translation: À Propos
 - id: authorsPosts
-  translation: Articles de l'auteur
+  translation: Nos Articles 
 - id: all
   translation: All
 - id: about
-  translation: À propos
+  translation: À Propos
 - id: services
   translation: Services
 - id: portfolio
