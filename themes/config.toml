@@ -147,7 +147,7 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-baseURL = "https://www.lcdigitale.fr"
+baseURL = "https://www.lcdigitale.fr/fr"
 logo = "images/logo.png"
 # Meta data
 description = "Développeur web à Blagnac. LCDIGITALE, création de sites web, vitrine, corporate, e-commerce. Conception graphique, logos, plaquettes publicitaires. Marketing Numérique, communication, Seo optimisé."
