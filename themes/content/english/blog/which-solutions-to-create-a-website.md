@@ -1,6 +1,6 @@
 +++
 author = "David Bailly"
-date = 2021-05-02T22:00:00Z
+date = 2021-05-03T22:00:00Z
 description = "You want to develop a website, why not use a freelance web developer a professional that will cost you less."
 image = "images/blog/lcdig.jpg"
 image_webp = "images/blog/lcdig.webp"
@@ -52,5 +52,3 @@ A freelance web developer will have to establish a relationship of trust and pro
 It has become easy for a few years now to afford a website at lower cost, the digital evolving constantly, it is also more accessible to all.
 
 However, it is difficult to find your way around when it comes to launching a website, between CMS platforms such as WordPress, Wix, Shopify through web agencies or freelance web. There are indeed today in 2021 a multitude of aspects to take into account when you want to create your website. In the end, you should not hesitate to use or compare all these solutions between them, to better match your needs to your project.
-
-![](/images/7fc1bfc9-b3e6-45ee-9ea9-bc293b9cd1dc.jpeg)
