@@ -213,7 +213,7 @@ link = "https://www.linkedin.com/in/davidbailly8"
 languageName = "English"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 home = "Home"
 copyright = "Copyright &copy; 2020 Designed by [Lc Digitale](https://lcdigitale.fr) & Developed by [David Bailly](https://davidbailly.fr)"
 
@@ -223,7 +223,7 @@ copyright = "Copyright &copy; 2020 Designed by [Lc Digitale](https://lcdigitale.
 languageName = "Français"
 languageCode = "fr-fr"
 contentDir = "content/french"
-weight = 2
+weight = 1
 home = "Accueil"
 # copyright = "Copyright &copy; 2021 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 copyright = "Copyright &copy; 2021 Conception par [Lc Digitale](https://lcdigitale.fr) & Développé par [David Bailly](https://davidbailly.fr)"
