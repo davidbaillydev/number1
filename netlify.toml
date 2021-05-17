@@ -10,8 +10,8 @@
 [[plugins]]
 package = "netlify-plugin-image-optim"
 
-[[redirects]]
-  from = "https://www.lcdigitale.fr"
-  to = "https://www.lcdigitale.fr/fr"
-  status = 301
-  force = true
+# [[redirects]]
+#   from = "https://www.lcdigitale.fr"
+#   to = "https://www.lcdigitale.fr/fr"
+#   status = 301
+#   force = true
