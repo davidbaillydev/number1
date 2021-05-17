@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://www.lcdigitale.fr"
+# baseURL = "https://www.lcdigitale.fr"
 title = "LCDIGITALE- Développeur Web Indépendant - création de sites web"
 defaultContentLanguage = "fr"
 contentDir = "content/french"
@@ -209,7 +209,7 @@ link = "https://www.linkedin.com/in/davidbailly8"
 
 ################################ English Language ########################
 [Languages.en]
-baseURL = "/"
+# baseURL = "/en"
 languageName = "English"
 languageCode = "en-us"
 contentDir = "content/english"
@@ -219,7 +219,7 @@ copyright = "Copyright &copy; 2020 Designed by [Lc Digitale](https://lcdigitale.
 
 ################################ France Language ########################
 [Languages.fr]
-baseURL = "/"
+# baseURL = "/fr"
 languageName = "Français"
 languageCode = "fr-fr"
 contentDir = "content/french"
