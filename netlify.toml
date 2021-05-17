@@ -10,8 +10,16 @@
 [[plugins]]
 package = "netlify-plugin-image-optim"
 
-# [[redirects]]
-#   from = "https://www.lcdigitale.fr"
-#   to = "https://www.lcdigitale.fr/fr"
-#   status = 301
-#   force = true
+[[redirects.fr]]
+  from = "https://www.lcdigitale.fr"
+  to = "https://www.lcdigitale.fr/fr"
+  conditions = {Language = ["fr"], Country = ["FR"], Role = ["admin"]}
+  status = 301
+  force = true
+
+[[redirects.en]]
+  from = "https://www.lcdigitale.fr"
+  to = "https://www.lcdigitale.fr/en"
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
+  status = 301
+  force = true
