@@ -209,21 +209,21 @@ link = "https://www.linkedin.com/in/davidbailly8"
 
 ################################ English Language ########################
 [Languages.en]
-baseURL = "/en"
+# baseURL = "/"
 languageName = "English"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 2
+weight = 1
 home = "Home"
 copyright = "Copyright &copy; 2020 Designed by [Lc Digitale](https://lcdigitale.fr) & Developed by [David Bailly](https://davidbailly.fr)"
 
 ################################ France Language ########################
 [Languages.fr]
-baseURL = "/fr"
+# baseURL = "/"
 languageName = "Français"
 languageCode = "fr-fr"
 contentDir = "content/french"
-weight = 1
+weight = 2
 home = "Accueil"
 # copyright = "Copyright &copy; 2021 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 copyright = "Copyright &copy; 2021 Conception par [Lc Digitale](https://lcdigitale.fr) & Développé par [David Bailly](https://davidbailly.fr)"
