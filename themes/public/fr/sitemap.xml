@@ -8,7 +8,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/"
+                href="/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -23,7 +23,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -42,7 +42,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/"
+                href="/en/author/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -56,7 +56,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -70,7 +70,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/david-bailly/"
+                href="/en/author/david-bailly/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -84,7 +84,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"

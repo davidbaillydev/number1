@@ -1,9 +1,9 @@
 ################################# Default configuration ###################
-# baseURL = "https://www.lcdigitale.fr"
+baseURL = "https://www.lcdigitale.fr"
 title = "LCDIGITALE- Développeur Web Indépendant - création de sites web"
-# defaultContentLanguage = "fr"
-# defaultContentLanguageInSubdir = "true"
-# languageCode = "fr"
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = "true"
+languageCode = "fr-fr"
 themes = "meghna-hugo"
 themesDir = "../.."
 # post pagination
@@ -210,7 +210,7 @@ link = "https://www.linkedin.com/in/davidbailly8"
 
 ################################ France Language ########################
 [Languages.fr]
-# baseURL = "/fr"
+baseURL = "/fr"
 languageName = "Français"
 languageCode = "fr-fr"
 contentDir = "content/french"
@@ -223,7 +223,7 @@ copyright = "Copyright &copy; 2021 Conception par [Lc Digitale](https://lcdigita
 
 ################################ English Language ########################
 [Languages.en]
-# baseURL = "/en"
+baseURL = "/en"
 languageName = "English"
 languageCode = "en-us"
 contentDir = "content/english"
