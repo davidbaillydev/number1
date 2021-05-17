@@ -50,43 +50,43 @@ link = "plugins/google-map/map.js"
 ################### French Navigation ########################
 [[Languages.fr.menu.main]]
 name = "À propos"
-pre = "#about"
+pre = "#"
 url = "about"
 weight = 1
 
 [[Languages.fr.menu.main]]
 name = "Services"
-pre = "#services"
+pre = "#"
 url = "services"
 weight = 2
 
 [[Languages.fr.menu.main]]
 name = "Projet"
-pre = "#portfolio"
+pre = "#"
 url = "portfolio"
 weight = 3
 
 [[Languages.fr.menu.main]]
 name = "Équipe"
-pre = "#team"
+pre = "#"
 url = "team"
 weight = 4
 
 [[Languages.fr.menu.main]]
 name = "Tarifs"
-pre = "#pricing"
+pre = "#"
 url = "pricing"
 weight = 5
 
 [[Languages.fr.menu.main]]
 name = "Blog"
-pre = "#blog"
+pre = "#"
 url = "blog"
 weight = 6
 
 [[Languages.fr.menu.main]]
 name = "Contact"
-pre = "#contact"
+pre = "#"
 url = "contact"
 weight = 7
 
