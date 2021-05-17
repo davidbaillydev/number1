@@ -1,8 +1,8 @@
 ################################# Default configuration ###################
 # baseURL = "https://www.lcdigitale.fr"
 title = "LCDIGITALE- Développeur Web Indépendant - création de sites web"
-# defaultContentLanguage = "fr"
-# defaultContentLanguageInSubdir = "true"
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = "true"
 # languageCode = "fr"
 themes = "meghna-hugo"
 themesDir = "../.."
@@ -50,42 +50,49 @@ link = "plugins/google-map/map.js"
 ################### French Navigation ########################
 [[Languages.fr.menu.main]]
 name = "À propos"
+link = "about"
 pre = "#"
 url = "about"
 weight = 1
 
 [[Languages.fr.menu.main]]
 name = "Services"
+link = "services"
 pre = "#"
 url = "services"
 weight = 2
 
 [[Languages.fr.menu.main]]
 name = "Projet"
+link = "portfolio"
 pre = "#"
 url = "portfolio"
 weight = 3
 
 [[Languages.fr.menu.main]]
 name = "Équipe"
+link = "team"
 pre = "#"
 url = "team"
 weight = 4
 
 [[Languages.fr.menu.main]]
 name = "Tarifs"
+link = "pricing"
 pre = "#"
 url = "pricing"
 weight = 5
 
 [[Languages.fr.menu.main]]
 name = "Blog"
+link = "blog"
 pre = "#"
 url = "blog"
 weight = 6
 
 [[Languages.fr.menu.main]]
 name = "Contact"
+link = "contact"
 pre = "#"
 url = "contact"
 weight = 7
@@ -207,15 +214,6 @@ link = "https://www.linkedin.com/in/davidbailly8"
 # link = "#"
 
 
-################################ English Language ########################
-[Languages.en]
-baseURL = "/en"
-languageName = "English"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 2
-home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Lc Digitale](https://lcdigitale.fr) & Developed by [David Bailly](https://davidbailly.fr)"
 
 ################################ France Language ########################
 [Languages.fr]
@@ -227,3 +225,16 @@ weight = 1
 home = "Accueil"
 # copyright = "Copyright &copy; 2021 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 copyright = "Copyright &copy; 2021 Conception par [Lc Digitale](https://lcdigitale.fr) & Développé par [David Bailly](https://davidbailly.fr)"
+
+
+
+################################ English Language ########################
+[Languages.en]
+baseURL = "/en"
+languageName = "English"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 2
+home = "Home"
+copyright = "Copyright &copy; 2020 Designed by [Lc Digitale](https://lcdigitale.fr) & Developed by [David Bailly](https://davidbailly.fr)"
+
