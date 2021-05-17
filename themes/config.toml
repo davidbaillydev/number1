@@ -2,8 +2,8 @@
 # baseURL = "https://www.lcdigitale.fr"
 title = "LCDIGITALE- Développeur Web Indépendant - création de sites web"
 defaultContentLanguage = "fr"
-# contentDir = "content/french"
-# languageCode = "fr-fr"
+contentDir = "content/french"
+languageCode = "fr-fr"
 themes = "meghna-hugo"
 themesDir = "../.."
 # post pagination
