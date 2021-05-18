@@ -3,12 +3,12 @@ contact:
   enable : true
   title : Contacter Nous
   subtitle : Coordonnées de contact
-  content : Nous sommes originaires de la région toulousaine où nous avons fait nos armes, nous attachons de l'importance à la proximité, nous nous déplaçons souvent pour rencontrer nos clients, et travaillons donc au-delà de nos frontières.  
+  content : Originaires de la région toulousaine où nous avons fait nos armes, nous attachons de l'importance à la proximité, nous nous déplaçons souvent pour rencontrer nos clients, et travaillons donc au-delà de nos frontières.  
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Toulouse, Paris, Bordeaux"
+      info : "Blagnac - Toulouse"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Téléphone: +33 (6) 12 49 64 82"
