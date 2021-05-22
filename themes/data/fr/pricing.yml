@@ -1,8 +1,8 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Nos tarifs
-  soustitle: Nous vous proposons un large panel de prestations maîtrisées
+  title : Dès prix modérés
+  soustitle: Un site web pour tous, avec un large éventail de services contrôlés
   pricing_table :
     # pricing table loop
     - name : SITE VITRINE STANDART

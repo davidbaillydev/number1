@@ -1,7 +1,7 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Nos prestations
+  title : Dès prestations maîtrisées
   service_item :
     # service item loop
     - name : Développement Web
@@ -21,7 +21,7 @@ service:
     # service item loop
     - name : Conception Graphique
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Votre marque doit montrer votre expertise et votre positionnement de spécialiste de votre secteur économique. Nous vous accompagnons dans votre communication visuelle au service de votre image.
+      content : Votre marque doit montrer votre expertise et votre volonté de vous positionner comme un spécialiste de votre secteur. Nous vous accompagnons dans votre communication visuelle pour servir votre image.
       
     # service item loop
     - name : Design UX/UI
@@ -31,4 +31,4 @@ service:
     # service item loop
     - name : Communication Global
       icon : ti-rocket # themify icon pack : https://themify.me/themify-icons
-      content : À partir de vos objectifs et des valeurs, notre communication travaille à établir une charte graphique précise et l’utiliser pour créer des visuels adaptés à des valeurs de votre projet et entreprise.
+      content : Sur la base de vos objectifs et des valeurs de votre entreprise, notre équipe de communication travaille à l'établissement d'une stratégie précise et s'en sert pour créer des contenus adaptés à votre projet.

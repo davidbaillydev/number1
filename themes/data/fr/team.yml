@@ -1,7 +1,7 @@
 ############################### team ############################
 team:
   enable : true
-  title : Notre équipe
+  title : Une troupe !
   team_member :
     # team member loop
     - name : David Bailly
@@ -9,7 +9,7 @@ team:
       image : images/team/team1.jpg
 
       designation : Développeur web | Conseiller Digital
-      content : Développeur web indépendant depuis 2 ans, j'accompagne particuliers et entreprises sur des projets de création de site internet, conception graphique, communication et stratégie digitale, curieux dans l’âme, j’aime toucher à tout ce qui englobe le numérique. Retrouvez-moi sur mes réseaux !
+      content : Développeur web indépendant depuis 2 ans, j'accompagne particuliers et entreprises sur des projets de création de site internet, conception graphique et stratégie digitale.
       social :
        # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
        #   link : "#"

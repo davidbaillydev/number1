@@ -1,7 +1,7 @@
 ############################# About ###################################
 about:
   enable : true
-  title : À Propos
+  title : trois Mots-clés
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : Créatifs

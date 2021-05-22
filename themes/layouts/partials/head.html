@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
 	<meta name=“geo.position” content=“43.70203077705397;1.4245992649726973″ />
-	<meta name=“geo.placename” content="Toulouse,Bordeaux,Paris,Montpellier" />
+	<meta name=“geo.placename” content="Toulouse,Blagnac" />
 	<meta name="geo.region" content="FR" />
 	{{ with site.Params.author }}
 	<meta name="author" content="{{ . }}">{{ end }}
@@ -33,8 +33,8 @@
   <link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen">
 
 	{{ "<!--Favicon-->" | safeHTML }}
-	<link rel="shortcut icon" href="{{ "images/favoricon.png" | absURL }}" type="image/x-icon">
-	<link rel="icon" href="{{ "images/favoricon.png" | absURL }}" type="image/x-icon">
+	<link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }}" type="image/x-icon">
+	<link rel="icon" href="{{ "images/favicon.png" | absURL }}" type="image/x-icon">
 
 	{{ with site.Params.google_analytics_id }}
 	{{ "<!-- Global Site Tag (gtag.js) - Google Analytics -->" | safeHTML }}

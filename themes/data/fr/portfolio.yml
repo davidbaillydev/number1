@@ -1,7 +1,7 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Nos réalisations
+  title : Dès missions accomplies
   portfolio_item :
     # portfolio item loop
     # - name : Le Palais de L'Inde
@@ -13,37 +13,56 @@ portfolio:
       
     # portfolio item loop
     - name : Bombay Nan Grill Design
-      image : images/portfolio/porto-1.jpg
-      image_webp : images/portfolio/porto-1.webp
-      categories : ["developpement"]
+      image : images/portfolio/portofo-1.jpg
+      image_webp : images/portfolio/portofo-1.webp
+      categories : ["développement site web"]
       content : Développement Site Web avec option E-commerce.
       link : "https://bombaynangrill.fr"
       
 
     # portfolio item loop
     - name : Le Palais De L'Inde
-      image : images/portfolio/porto-2.jpg
-      image_webp : images/portfolio/porto-2.webp
-      categories : ["developpement"]
+      image : images/portfolio/portofo-2.jpg
+      image_webp : images/portfolio/portofo-2.webp
+      categories : ["développement site web"]
       content : Développement Site Web avec option E-commerce.
       link : "https://www.palaisdelinde-stalban.fr"
 
       
     # portfolio item loop
     - name : Portofolio David Bailly 
-      image : images/portfolio/porto-3.jpg
-      image_webp : images/portfolio/porto-3.webp
-      categories : ["developpement"]
+      image : images/portfolio/portofo-3.jpg
+      # image_webp : images/portfolio/porto-3.webp
+      categories : ["développement site web"]
       content : Développement d'un portofiolio.
       link : "https://davidbaillydev.github.io/davidbailly.io/index.html"
       
           # portfolio item loop
     - name : David Bailly Blog 
-      image : images/portfolio/porto-4.jpg
-      image_webp : images/portfolio/porto-4.webp
-      categories : ["developpement"]
+      image : images/portfolio/portofo-4.jpg
+      # image_webp : images/portfolio/porto-4.webp
+      categories : ["développement site web"]
       content : Développement d'un Site Internet avec Blog.
-      link : ""
+      link : "https://davidbailly.netlify.app"
+
+          # portfolio item loop
+    - name : Jucia Nails Studio
+      image : images/portfolio/portofo-5.jpg
+      # image_webp : images/portfolio/porto.webp
+      categories : ["développement site web"]
+      content : Conception site vitrine
+      link : "https://davidbaillydev.github.io/jucia-studio/"
+      
+        # portfolio item loop
+    - name : Joe Barber X Shop
+      image : images/portfolio/portofo-6.jpg
+      # image_webp : images/portfolio/porto.webp
+      categories : ["développement site web"]
+      content : Conception site vitrine avec option de reservation en ligne
+      link : "https://davidbaillydev.github.io/davidbailly.barber/"
+      
+      
+      
       
     # portfolio item loop
     # - name : Shopping Bag
