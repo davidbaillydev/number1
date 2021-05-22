@@ -1,7 +1,7 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Dès Compétences
+  title : Des Compétences
   subtitle : Domaines d'expertise et de conseil numérique acquis au sein du marketplace numérique et des outils internet.
   content : Spécialisé dans le développement web et le marketing digital. Nous adoptons les outils et les concepts de création d'une solution web puissante ; notre objectif est axé sur une présence en ligne, un marketing numérique global. Nous créons des solutions qui s'adaptent à différents types de projets ou de structures personnalisés ou déjà existants sur le marché.
   # image : images/about/company-growth.png

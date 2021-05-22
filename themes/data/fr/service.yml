@@ -1,7 +1,7 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Dès prestations maîtrisées
+  title : Des prestations maîtrisées
   service_item :
     # service item loop
     - name : Développement Web

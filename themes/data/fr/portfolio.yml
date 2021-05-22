@@ -1,7 +1,7 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Dès missions accomplies
+  title : Des missions accomplies
   portfolio_item :
     # portfolio item loop
     # - name : Le Palais de L'Inde

@@ -1,7 +1,7 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Dès prix modérés
+  title : Des prix modérés
   soustitle: Un site web pour tous, avec un large éventail de services contrôlés
   pricing_table :
     # pricing table loop

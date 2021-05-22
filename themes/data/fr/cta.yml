@@ -7,5 +7,5 @@ cta:
   content :  NOTRE PHILOSOPHIE EST DE PROPOSER UN ÉCOSYSTÈME DIGITALE IDÉAL ET EFFICACE POUR ASSURER SA PRÉSENCE EN LIGNE
   button:
     enable : true
-    label : "Démarrez un projet avec nous"
+    label : "Démarrons un projet ensemble"
     link : "#contact"
