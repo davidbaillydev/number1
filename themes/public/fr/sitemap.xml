@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>fr/blog/</loc>
+    <lastmod>2021-05-02T22:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="fr/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>fr/</loc>
+    <lastmod>2021-05-02T22:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>fr/blog/quelles-solutions-pour-cr%C3%A9er-un-site-web-/</loc>
+    <lastmod>2021-05-02T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>fr/author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="en/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="fr/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>fr/author/david-bailly/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="en/author/david-bailly/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="fr/author/david-bailly/"
+                />
+  </url>
+  
+  <url>
+    <loc>fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="fr/tags/"
+                />
+  </url>
+  
+</urlset>
