@@ -13,7 +13,7 @@ summaryLength = "30"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = [""]
+disableLanguages = ["en"]
 # Enable robots.txt generation
 enableRobotsTXT = "true"
 
@@ -148,9 +148,9 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-baseURL = "https://www.lcdigitale.fr"
-contentDir = "content/french"
-languageCode = "fr-fr"
+# baseURL = "https://www.lcdigitale.fr"
+# contentDir = "content/french"
+# languageCode = "fr-fr"
 logo = "images/monlogo2.svg"
 # Meta data
 description = "Développeur web à Blagnac. LCDIGITALE, création de sites web, vitrine, corporate, e-commerce. Conception graphique, logos, plaquettes publicitaires. Marketing Numérique, communication, Seo optimisé."
@@ -210,7 +210,7 @@ link = "#"
 
 ################################ France Language ########################
 [Languages.fr]
-baseURL = "fr"
+# baseURL = "fr"
 languageName = "Français"
 languageCode = "fr-fr"
 contentDir = "content/french"
@@ -223,7 +223,7 @@ copyright = "Copyright &copy; 2021 Conception par [Lc Digitale](https://lcdigita
 
 ################################ English Language ########################
 [Languages.en]
-baseURL = "en"
+# baseURL = "en"
 languageName = "English"
 languageCode = "en-us"
 contentDir = "content/english"
