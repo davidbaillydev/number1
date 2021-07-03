@@ -156,8 +156,8 @@ logo = "images/monlogo2.svg"
 description = "Développeur web à Blagnac. LCDIGITALE, création de sites web, vitrine, corporate, e-commerce. Conception graphique, logos, plaquettes publicitaires. Marketing Numérique, communication, Seo optimisé."
 author = "David Bailly"
 # Google Analytics
-# google_analytics_id = "G-1W0S9VCFWZ" # Your ID
-google_analytics_id = "UA-186800657-1" # Your ID
+google_analytics_id = "G-1W0S9VCFWZ" # Your ID
+
 
 # post share
 post_share = true
