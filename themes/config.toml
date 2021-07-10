@@ -179,8 +179,8 @@ expire_days = 15
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyClIxTji6fpqenBBAzyUs-FLNVJ6Gccz_4"
-map_latitude = "43.635087"
-map_longitude = "1.39703"  
+map_latitude = "43.641193"
+map_longitude = "1.380048"  
 map_marker = "images/marker.png"
 
 ############################# social icons ##########################
