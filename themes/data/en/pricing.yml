@@ -7,20 +7,17 @@ pricing:
     # pricing table loop
     - name : STANDARD WEBSITE
       description : START 
-      price : 1090€*
+      price : 590€*
       # unit : month
       services:
         - Developed under CMS    
         - Pre-defined model
         - Selection of a color palette
-        - Domain | Hosting | E-mail 
-        - Administrator Interface
+        - Domain | Hosting  
         - 100% responsive site
         - Setting up the content
-        - Contact Form
+        - Contact
         - Social network sharing links
-        - Optimization of referencing
-        - Visit statistics
         - Putting on line of the site
         - Training on how to use the site
       button:

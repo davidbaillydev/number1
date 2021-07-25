@@ -7,21 +7,18 @@ pricing:
     # pricing table loop
     - name : SITE VITRINE STANDART
       description : À PARTIR DE
-      price : 1090€*
+      price : 590€*
       #unit : month
       services:
         
         - Développé sous CMS    
         - Maquette pré-définie
         - Sélection d'une palette de couleur
-        - Domaine | Hébergement | E-mail 
-        - Interface Administrateur
+        - Domaine | Hébergement  
         - Site responsive 100%
         - Mise en place du contenu
-        - Formulaire de contact
+        - Information de contact
         - Liens de partage réseaux sociaux
-        - Optimisation du référencement
-        - Statistiques de visite
         - Mise en ligne du site
         - Formation utilisation du site
       button:
