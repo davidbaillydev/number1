@@ -1,8 +1,8 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/dav.jpg
-  image_webp : images/about/emma.webp
+  image : images/about/davi.jpg
+  image_webp : images/about/davi.webp
   title :  Développement et accompagnement à la création de sites web et au marketing numérique
   content : La communication digitale, votre collaborateur indépendant ; promouvoir nos compétences auprès des particuliers et des entreprises, intéressés par des problématiques liées à leur activité font partie de nos objectifs premiers, qui nous permettent d'établir des solutions d'accompagnement.
 
