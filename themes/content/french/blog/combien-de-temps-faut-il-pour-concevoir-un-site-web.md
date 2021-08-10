@@ -47,4 +47,4 @@ Bien sur cela garanti d'avoir un site web qui à l'avantage d'être construits s
 
 * **Durée de réalisation** _: 16 à 200 heures_
 
-##### **4 - Développement de sites web corporate**
+##### **4 - Développement de sites web corporate ou d'entreprises** 
