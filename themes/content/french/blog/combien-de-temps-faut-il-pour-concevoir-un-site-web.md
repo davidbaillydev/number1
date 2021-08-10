@@ -46,3 +46,5 @@ Le développement d'un site web est une solution basée sur un modele de concept
 Bien sur cela garanti d'avoir un site web qui à l'avantage d'être construits sur mesure. Mais nécessite plus moyen en compétence technique et plus de temps qu'une simple personnalisation de thèmes.
 
 * **Durée de réalisation** _: 16 à 200 heures_
+
+##### **4 - Développement de sites web corporate**
