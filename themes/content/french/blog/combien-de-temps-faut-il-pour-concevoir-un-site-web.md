@@ -23,10 +23,26 @@ Les sites web pouvant être très différents les uns des autres dans leurs cons
 
 c'est parti ;) 
 
-### 1. Le Drap & Drop pour la création d'un site web 
+#### 1 - Le Drag & Drop pour la création d'un site web 
 
 L'utilisation services hébergés comme Wix, Squarespace et WordPress.org. «Configurez votre site Web en 5 minutes»
 
-Sans compétences techniques, vous obtenez un modèle que vous pouvez styliser et remplir avec du contenu et des images pour qu'il soit beau.
+Sans compétences techniques en développement web, vous pouvez styliser des dizaine de thèmes gratuit et remplir avec du contenu textuel et des images.
 
-**Temps de développement typique:** 2- 20 heures
+* **Durée de réalisation :** _2 - 30 heures_
+
+##### 2 - Création d'un site web en personnalisant un thèmes
+
+Vous pouvez personnaliser des templates pour des sites web simples, plusieurs plateformes propose des thèmes gratuit ou payant à personnaliser pour quelque euros a plusieurs centaines d'euros. Le thèmes choisi pourras être télécharger et déployer chez un hébergeur web de votre choix.
+
+Un grand nombre de sites sont construits sur ce modele de personnalisation de thèmes notamment sur wordpress on l'on vous proposeras des thèmes plus élaborer en choisissant un programme premium. 
+
+* **Durée de réalisation :** _10-40 heures_
+
+##### 3 - Développer un site web avec thème personnalisé 
+
+Le développement d'un site web est une solution basée sur un modele de conception préparé par un designer UI/UX et ensuite coder par un développeur en site web.
+
+Bien sur cela garanti d'avoir un site web qui à l'avantage d'être construits sur mesure. Mais nécessite plus moyen en compétence technique et plus de temps qu'une simple personnalisation de thèmes.
+
+* **Durée de réalisation** _: 16 à 200 heures_
