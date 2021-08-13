@@ -4,8 +4,8 @@ email = "david.bailly@lcdigitale.fr"
 image = "images/blog/team1.jpg"
 title = "David Bailly"
 [[social]]
-icon = "ti-link"
-link = "https://www.jesuisexpert.fr"
+icon = ""
+link = ""
 [[social]]
 icon = "ti-facebook"
 link = "#"
