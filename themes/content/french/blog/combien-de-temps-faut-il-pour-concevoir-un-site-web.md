@@ -46,6 +46,14 @@ En ce qui concerne le développement d'un site web pour une entreprise, je vous 
 
 * **Durée de réalisation** _: 200 à 2500 heures_
 
-## En combien de temps puis-je coder un site vitrine sur mesure ?
+### En combien de temps puis-je coder un site vitrine sur mesure ?
 
-Selon le projet qui mais confié, il est pour moi très important d'étudier sa faisabilité, afin de choisir la technologie de développement à mettre en place pour la construction du site web, personnelle j'utilise différent type de CMS dans mes projet afin d'élargir les possibilités 
+En fonction du projet qui m'est confié, il est très important d'étudier sa faisabilité, afin de choisir la technologie de développement à mettre en œuvre pour la construction du site web, personnellement j'utilise différents types de CMS comme Hugo, qui pour les sites statiques est d'un grand intérêt pour le référencement, ou des solutions comme wordpress, webflow et bien d'autres solutions dans mon projet afin d'étendre les possibilités nécessitant un développement plus avancé nécessitant des plugins.
+
+Pour un site de 5 pages avec des designs mobiles personnalisés, le temps moyen sera de 65 heures. 
+
+#### **Pour conclure** 
+
+La meilleure approche en termes de conception et de développement d'un projet web est un devis personnalisé comprenant une estimation du temps de développement du projet web. Vous pouvez trouver des développeurs web sur des plateformes comme [jesuisexpert.com](https://www.jesuisexpert.fr "jesuisexpert") ou malt.fr.
+
+Si vous aimez cet article, merci de le partager.
