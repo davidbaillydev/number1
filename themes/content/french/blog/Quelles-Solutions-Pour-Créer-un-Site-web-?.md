@@ -9,7 +9,7 @@ image_webp1 = ""
 title = "Quelles Solutions Pour Créer un Site web ?"
 
 +++
-Aujourd'hui, quelle que soit notre activité, on souhaite la rendre visible sur tous les canaux possibles, aussi bien sur les réseaux sociaux comme **Facebook, Twitter, Instagram,** que sur Internet avec un site web reconnus par les Moteur de recherche comme Google.
+Aujourd'hui, quelle que soit notre activité, on souhaite la rendre visible sur tous les canaux possibles, aussi bien sur les réseaux sociaux, que sur Internet avec un site web reconnus par les Moteur de recherche comme Google.
 
 L’objectif est principalement d'être connu d’un public large.
 
