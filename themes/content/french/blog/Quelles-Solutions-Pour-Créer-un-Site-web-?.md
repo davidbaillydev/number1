@@ -9,7 +9,9 @@ image_webp1 = ""
 title = "Quelles Solutions Pour Créer un Site web ?"
 
 +++
-Aujourd'hui, quelle que soit notre activité, on souhaite la rendre visible sur tous les canaux possibles Aussi Bien sur les réseaux sociaux comme **Facebook, Twitter, Instagram,** que sur Internet avec un site web reconnus par les Moteur de recherche comme Google, l’objectif étant de nous faire connaître d’un public large.
+Aujourd'hui, quelle que soit notre activité, on souhaite la rendre visible sur tous les canaux possibles, aussi bien sur les réseaux sociaux comme **Facebook, Twitter, Instagram,** que sur Internet avec un site web reconnus par les Moteur de recherche comme Google.
+
+L’objectif est principalement d'être connu d’un public large.
 
 Heureusement, bon nombre de plateformes **CMS** tel que **Wordpress, Wix, Shopify** proposent de développer un **site internet, un blog gratuit ou un site E- Commerce** contre un abonnement mensuel ou encore à l’année. Ce système pensé et adapter à un public expérimenté ou non expérimenté en développement web, avec des capacités financières limitées, peut être un bon compromis.
 
