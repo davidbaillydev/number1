@@ -2,17 +2,26 @@
 author = "David Bailly"
 date = 2021-08-08T22:00:00Z
 description = " Combien de temps pour concevoir différents sites web (vitrine, blog, e-commerce)"
-draft = true
 image = "images/blog/article2.jpg"
 image_webp = ""
 title = "Combien de temps faut-il pour concevoir un site web ?"
 
 +++
-En tant que freelance en développement et design web, le temps qu'il me faut pour concevoir un site web varie en fonction du projet et du type de fonctionnalité dans la réalisation d'un site web. Les différents outils utilisés dans le développement d'un site web, nous permettront de comprendre le temps nécessaire à la réalisation d'un site web par catégorie. Mais avant tout dans la conception d'un site web, il est nécessaire que le maître d'ouvrage alias le client, et le développeur web ou l'agence web puissent travailler en bonne entente pour éviter tout retard dans la livraison du projet web. J'ai vu de nombreux cas où le client était indisponible à des moments clés "phases de test" du projet ce qui a fait perdre du temps à l'équipe dans la réalisation du site web. Ce que cela a donné ! Il s'agissait de conflits pour des commandes non respectées en termes de délais ou de réalisation qui n'étaient pas validées par le client du fait de son indisponibilité au moment de la réalisation. Cet article vous donnera des informations pour vous aider à trouver votre chemin dans votre projet web en évitant les obstacles.
+En tant que freelance en développement et design web, le temps qu'il me faut pour concevoir un site web varie en fonction du projet et du type de fonctionnalité dans la réalisation d'un site web. 
+
+Les différents outils utilisés dans le développement d'un site web, nous permettront de comprendre le temps nécessaire à la réalisation d'un site web par catégorie. Mais avant tout dans la conception d'un site web, il est nécessaire que le maître d'ouvrage alias le client, et le développeur web ou l'agence web puissent travailler en bonne entente pour éviter tout retard dans la livraison du projet web. 
+
+J'ai vu de nombreux cas où le client était indisponible à des moments clés "phases de test" du projet ce qui a fait perdre du temps à l'équipe dans la réalisation du site web. Ce que cela a donné ! Il s'agissait de conflits pour des commandes non respectées en termes de délais ou de réalisation qui n'étaient pas validées par le client du fait de son indisponibilité au moment de la réalisation. 
+
+Cet article vous donnera des informations pour vous aider à trouver votre chemin dans votre projet web en évitant les obstacles.
 
 ## Classement de type de site web
 
-Tout d'abord, gardons à l'esprit que la conception d'un site web dépend de l'ampleur du projet de l'équipe de développement ou du développeur web freelance. Parce qu'ils vont nécessiter des compétences et une expérience déjà acquises, ou à acquérir au cours de la construction du site web et des attentes en qualités.Les sites web peuvent être très différents les uns des autres dans leurs constructions et la technologie utilisée, je vais établir un classement en termes de facilité de réalisation. Cela nous permettra d'avoir une estimation précise en termes de temps pour construire un site web.
+Tout d'abord, gardons à l'esprit que la conception d'un site web dépend de l'ampleur du projet de l'équipe de développement ou du développeur web freelance. 
+
+Parce qu'ils vont nécessiter des compétences et une expérience déjà acquises, ou à acquérir au cours de la construction du site web et des attentes en qualités.Les sites web peuvent être très différents les uns des autres dans leurs constructions et la technologie utilisée, je vais établir un classement en termes de facilité de réalisation. 
+
+Cela nous permettra d'avoir une estimation précise en termes de temps pour construire un site web.
 
 c'est parti ;)
 
