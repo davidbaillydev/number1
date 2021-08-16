@@ -158,7 +158,6 @@ author = "David Bailly"
 # Google Analytics
 google_analytics_id = "G-1W0S9VCFWZ" # Your ID
 
-
 # post share
 post_share = true
 
