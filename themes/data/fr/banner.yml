@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/lc-hero.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Développeur Web Indépendant" 
-  content : " LCDIGITALE, création de sites web, vitrine, corporate, e-commerce. Conception graphique, logos, plaquettes publicitaires. Marketing Numérique, communication, Seo optimisé."
+  content : " création de sites internet, vitrine, corporate, e-commerce, graphisme, logos, brochures publicitaires. stratégie de marketing digital, communication, référencement optimisé."
   button:
     enable : true
     label : "Découvrez Nous"
