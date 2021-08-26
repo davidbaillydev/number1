@@ -8,8 +8,8 @@ team:
       image_webp : images/team/team1.webp
       image : images/team/team1.jpg
 
-      designation : Développeur web | Conseiller Digital
-      content : Développeur web indépendant depuis 2 ans, j'accompagne particuliers et entreprises sur des projets de création de site internet, conception graphique et stratégie digitale.
+      designation : Développeur web fullstack et Conseiller Numérique
+      content : Développeur web fullstack freelance depuis 3 ans, j'accompagne les particuliers et les entreprises sur des projets de création de site internet ou d'application web aussi bien front-end que back-end, polyvalent j'établis la stratégie digitale axée sur votre présence en ligne.
       social :
        # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
        #   link : "#"
