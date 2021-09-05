@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://www.lcdigitale.fr"
-title = "LCDIGITALE- Développeur Web Indépendant - création de sites web"
+title = "Lcdigitale | Développeur Web Indépendant à Blagnac"
 defaultContentLanguage = "fr"
 # defaultContentLanguageInSubdir = "true"
 languageCode = "fr-fr"
@@ -153,7 +153,7 @@ weight = 7
 # languageCode = "fr-fr"
 logo = "images/monlogo2.svg"
 # Meta data
-description = "Développeur web à proximité à Blagnac. LCDIGITALE, création de sites web, vitrine, corporate, e-commerce. Conception graphique, logos, plaquettes publicitaires. Marketing Numérique, communication, Seo optimisé."
+description = "Développer votre présence en ligne, misez sur un contenu optimisé et organique, soyez visible, exprimez vos idées, nous créons votre site internet professionnel"
 author = "David Bailly"
 # Google Analytics
 google_analytics_id = "G-1W0S9VCFWZ" # Your ID
