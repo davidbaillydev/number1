@@ -48,12 +48,12 @@
 						<input type="text" placeholder="{{ .subject }}" class="form-control" name="subject" id="subject">
 					</div>
 					<div class="form-group">
-						<textarea rows="6" placeholder="{{ .message }}" class="form-control" name="message" id="message"> <div data-netlify-recaptcha="true"></div></textarea>
-					
+						<textarea rows="6" placeholder="{{ .message }}" class="form-control" name="message" id="message"></textarea>
+						<div data-netlify-recaptcha="true"></div>
 					</div>
 					
 					<div id="cf-submit">
-						<div class="g-recaptcha" data-sitekey="6LeIj3QcAAAAAOV7Tb3Qob8-XR028np3FKQCTGFi"></div>
+						<!-- <div class="g-recaptcha" data-sitekey="6LeIj3QcAAAAAOV7Tb3Qob8-XR028np3FKQCTGFi"></div> -->
 						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block"
 							value="{{ .submit }}">{{ .submit }}</button>
 					</div>
