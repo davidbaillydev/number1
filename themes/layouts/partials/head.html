@@ -39,14 +39,8 @@
 	{{ with site.Params.google_analytics_id }}
 	{{ "<!-- Global Site Tag (gtag.js) - Google Analytics -->" | safeHTML }}
 	<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
-	<!-- <script src="https://www.google.com/recaptcha/api.js" async defer></script> -->
-	<script type="text/javascript">
-		var onloadCallback = function() {
-		  grecaptcha.render('html_element', {
-			'sitekey' : '6LeIj3QcAAAAAOV7Tb3Qob8-XR028np3FKQCTGFi'
-		  });
-		};
-	  </script>
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	
 	<script>
 	  window.dataLayer = window.dataLayer || [];
 	  function gtag(){dataLayer.push(arguments);}

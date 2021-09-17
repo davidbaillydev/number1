@@ -50,16 +50,14 @@
 					<div class="form-group">
 						<textarea rows="6" placeholder="{{ .message }}" class="form-control" name="message" id="message"></textarea>
 					</div>
-					<!-- <div class="g-recaptcha" data-sitekey="6LeIj3QcAAAAAOV7Tb3Qob8-XR028np3FKQCTGFi"></div> -->
+					
 					<div id="cf-submit">
+						<div class="g-recaptcha" data-sitekey="6LeIj3QcAAAAAOV7Tb3Qob8-XR028np3FKQCTGFi"></div>
 						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block"
 							value="{{ .submit }}">{{ .submit }}</button>
 					</div>
 				</form>
 
-				<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
-				async defer>
-			</script>
 			</div>
 			{{ end }}
 			{{ else }}
