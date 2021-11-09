@@ -45,6 +45,15 @@ portfolio:
       content : Développement d'un Site Internet avec Blog.
       link : "https://davidbailly.netlify.app"
 
+
+       # portfolio item loop
+    - name : Balilona massage
+      image : images/portfolio/portofo-7.jpg
+      image_webp : images/portfolio/portofo-7.webp
+      categories : ["développement site web"]
+      content : Développement d'un Site Internet vitrine.
+      link : "https://www.balilonamassages.fr"
+
           # portfolio item loop
     - name : Jucia Nails Studio
       image : images/portfolio/portofo-5.jpg
