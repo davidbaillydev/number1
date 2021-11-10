@@ -19,8 +19,8 @@ testimonial:
       content : Notre activités ayant été ralenti par le Covid-19, Lc digitale nous à permis d'avoir un site de vente en ligne à notre image, aujourd'hui nous travaillons autrements.
       
     # testimonial item loop
-    # - name : Lemos Kail
-    #   image : images/client/client-1.jpg
-    #   image_webp : images/client/client-1.webp
-    #   date : Dec 26, 2018
-    #   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Balilona Massage
+      image : images/client/balilona.jpg
+      # image_webp : images/client/client-1.webp
+      date : Nov 10, 2021
+      content : Des prix très abordable pour les petites entreprises qui commence et qui cherche à faire un site vitrine. Il y a un réel suivis tout le long du projet pour un site qui nous correspond complètement et des possibilités d'amélioration.
