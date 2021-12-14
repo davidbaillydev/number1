@@ -5,13 +5,13 @@ pricing:
   soustitle: Un site web pour tous, avec un large éventail de services contrôlés
   pricing_table :
     # pricing table loop
-    - name : SITE VITRINE STANDART
+    - name : SITE VITRINE STANDARD
       description : À PARTIR DE
       price : 590€*
       #unit : month
       services:
         
-        - Développé sous CMS    
+          
         - Maquette pré-définie
         - Sélection d'une palette de couleur
         - Domaine | Hébergement  
