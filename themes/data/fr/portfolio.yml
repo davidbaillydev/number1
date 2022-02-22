@@ -74,12 +74,12 @@ portfolio:
       
       
     # portfolio item loop
-    # - name : Shopping Bag
-    #   image : images/portfolio/portfolio-5.jpg
-    #   image_webp : images/portfolio/portfolio-5.webp
-    #   categories : ["design"]
-    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    #   link : "#"
+    - name : Gree'n Food 
+      image : images/portfolio/portfolio-8.jpg
+      image_webp : images/portfolio/portfolio-8.webp
+      categories : ["développement site web"]
+      content : Développer votre etablissement avec un site de qualité.
+      link : "https://master.d39n5tzm2rxu02.amplifyapp.com"
       
     # portfolio item loop
     # - name : Tag Design
