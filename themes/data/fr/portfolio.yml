@@ -75,8 +75,8 @@ portfolio:
       
     # portfolio item loop
     - name : Gree'n Food 
-      image : images/portfolio/portfo-8.jpg
-      image_webp : images/portfolio/portfo-8.webp
+      image : images/portfolio/portofo-8.jpg
+      image_webp : images/portfolio/portofo-8.webp
       categories : ["développement site web"]
       content : Développer votre etablissement avec un site de qualité.
       link : "https://master.d39n5tzm2rxu02.amplifyapp.com"
