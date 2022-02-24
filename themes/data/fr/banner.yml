@@ -4,9 +4,10 @@ banner:
   bg_image_webp : "images/backgrounds/lc-hero.webp"
   bg_image : "images/backgrounds/lc-hero.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Développeur Web Indépendant" 
-  content : " création de sites internet, vitrine, corporate, e-commerce, graphisme, logos, brochures publicitaires. stratégie de marketing digital, communication, référencement optimisé."
+  title : "communication + digitalisation." 
+  content : " Quelle que soit votre activité ou votre niveau d'expertise, propulsez votre établissement avec un site internet ! Notre équipe sera en mesure de réaliser votre site internet."
+
   button:
     enable : true
-    label : "Découvrez Nous"
-    link : "#services"
+    label : "Je veux un devis"
+    link : "https://dcihtwg8jhf.typeform.com/to/NVz3VGOl"

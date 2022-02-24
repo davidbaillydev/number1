@@ -23,8 +23,8 @@ pricing:
         - Formation utilisation du site
       button:
         label : "Demander Un Devis"
-        link : "#contact"
-      
+        link : "https://dcihtwg8jhf.typeform.com/to/NVz3VGOl"
+
     # pricing table loop
     - name : SITE VITRINE PERSONNALISÉ
       description : À PARTIR DE
@@ -46,8 +46,8 @@ pricing:
         - Formation utilisation du site
       button:
         label : "Demander Un Devis"
-        link : "#contact"
-        
+        link : "https://dcihtwg8jhf.typeform.com/to/NVz3VGOl" 
+
     # pricing table loop
     - name : SITE | PLATEFORME E-COMMERCE
       description : À PARTIR DE
@@ -69,8 +69,8 @@ pricing:
         - Formation utilisation du site
       button:
         label : "Demander Un Devis"
-        link : "#contact"
-        
+        link : "https://dcihtwg8jhf.typeform.com/to/NVz3VGOl" 
+               
     # pricing table loop
     - name : FORFAIT MAINTENANCE
       description : 30 €/Heure
@@ -85,4 +85,4 @@ pricing:
        
       button:
         label : "Contact"
-        link : "#contact"
+        link : "https://dcihtwg8jhf.typeform.com/to/NVz3VGOl"
