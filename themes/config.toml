@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://www.lcdigitale.fr"
-title = "Lcdigitale | Créateur de site internet à blagnac est notre deuxième prénom"
+title = "Lcdigitale | Communication + Digitalisation."
 # title = "Lcdigitale | Développeur Web Indépendant à Blagnac"
 defaultContentLanguage = "fr"
 # defaultContentLanguageInSubdir = "true"
@@ -50,46 +50,46 @@ link = "plugins/google-map/map.js"
 
 ################### French Navigation ########################
 [[Languages.fr.menu.main]]
-name = "À propos"
-pre = "#"
-url = "about"
+name = "À Propos"
+pre = ""
+url = "/author/david-bailly/"
 weight = 1
 
 [[Languages.fr.menu.main]]
-name = "Services"
+name = "Nos Expertises"
 pre = "#"
 url = "services"
 weight = 2
 
 [[Languages.fr.menu.main]]
-name = "Projet"
+name = "Nos Projets"
 pre = "#"
 url = "portfolio"
 weight = 3
 
-[[Languages.fr.menu.main]]
-name = "Équipe"
-pre = "#"
-url = "team"
-weight = 4
+# [[Languages.fr.menu.main]]
+# name = "Équipe"
+# pre = "#"
+# url = "team"
+# weight = 4
+
+# [[Languages.fr.menu.main]]
+# name = "Tarifs"
+# pre = "#"
+# url = "pricing"
+# weight = 4
 
 [[Languages.fr.menu.main]]
-name = "Tarifs"
-pre = "#"
-url = "pricing"
-weight = 5
-
-[[Languages.fr.menu.main]]
-name = "Blog"
+name = "Nos Actualités"
 pre = "#"
 url = "blog"
-weight = 6
+weight = 4
 
 [[Languages.fr.menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
-weight = 7
+weight = 5
 
 # [[Languages.fr.menu.main]]
 # name = "themefisher"
@@ -154,7 +154,7 @@ weight = 7
 # languageCode = "fr-fr"
 logo = "images/monlogo2.svg"
 # Meta data
-description = "Développer votre présence en ligne, misez sur un contenu optimisé et organique, soyez visible, exprimez vos idées, nous créons votre site internet professionnel"
+description = "Propulsez votre établissement à partir de 49€ avec un site internet, développer votre présence en ligne, misez sur un contenu optimisé et organique, Quelle que soit votre activité ou votre niveau d’expertise soyez visible, exprimez vos idées, nous créons votre site internet professionnel"
 author = "David Bailly"
 # Google Analytics
 google_analytics_id = "G-1W0S9VCFWZ" # Your ID

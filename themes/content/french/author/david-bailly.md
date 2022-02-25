@@ -2,7 +2,7 @@
 auteur = "/team1.jpg"
 email = "david.bailly@lcdigitale.fr"
 image = "images/blog/team1.jpg"
-title = "David Bailly"
+title = "Notre Vision"
 [[social]]
 icon = ""
 link = ""
@@ -17,6 +17,10 @@ icon = "ti-github"
 link = "#"
 
 +++
-Parce que j’aime pour résoudre les problèmes de conception et trouver des solutions simples et meilleures pour les résoudre. Je fais toujours de mon mieux pour créer une bonne interface utilisateur avec la meilleure expérience utilisateur.  
+Passionnés par le monde du digital et de la technologie, et parce que nous croyons aux solutions simples pour résoudre les problèmes, nous approfondissons chaque jour nos savoir et nos pratiques depuis 4 ans. 
+
+Quelle que soit la nature de votre projet, nous vous accompagnons du début à la fin et même après. Notre objectif est de travailler en étroite collaboration et d'avoir une proximité dans les différents échanges, projets, de vous rendre autonome et de vous permettre d'obtenir des résultats performants en un mot un partenariat qui gagne. 
+
   
-Mon objectif est de construire un solide réseau professionnel de soutien parmi tous les indépendants et start-up afin d’améliorer leurs performances. C’est aussi de pouvoir travailler en étroite collaboration et avoir une proximité dans les différents échanges et projets, en un mot un partenariat qui gagne.
+Notre vision est de construire un réseau professionnel solide de soutien entre tous les particuliers, entreprises et  start-ups pour améliorer leurs performances. 
+
