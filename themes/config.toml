@@ -152,7 +152,7 @@ weight = 7
 # baseURL = "https://www.lcdigitale.fr"
 # contentDir = "content/french"
 # languageCode = "fr-fr"
-logo = "images/monlogo2.svg"
+logo = "images/DIGITALE.svg"
 # Meta data
 description = "Propulsez votre établissement à partir de 49€ avec un site internet, développer votre présence en ligne, misez sur un contenu optimisé et organique, Quelle que soit votre activité ou votre niveau d’expertise soyez visible, exprimez vos idées, nous créons votre site internet professionnel"
 author = "David Bailly"
@@ -173,7 +173,7 @@ preloader = "images/logo.png"
 # cookies
 [params.cookies]
 enable = true
-expire_days = 15
+expire_days = 30
 
 # google map
 [params.map]
