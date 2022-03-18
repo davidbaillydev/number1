@@ -6,7 +6,7 @@ banner:
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "communication + digitalisation." 
   content : " Quelle que soit votre activité ou votre niveau d'expertise, propulsez votre établissement avec un site internet ! Notre équipe sera en mesure de réaliser votre site internet."
-
+  # content : "Création de sites internet     Graphisme     Print     Conseil     Direction Artistique     Communication"
   button:
     enable : true
     label : "Je veux un devis"

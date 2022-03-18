@@ -2,8 +2,8 @@
 contact:
   enable : true
   title : Contacter Nous
-  subtitle : Coordonnées de contact
-  content : Originaires de la région toulousaine, où nous avons été formés, nous attachons de l'importance à la proximité, nous nous déplaçons souvent pour rencontrer nos clients, et travaillons donc au-delà de nos frontières.  
+  subtitle : Contact
+  content : Originaires de la région toulousaine, dans laquelle nous avons été formés, nous accordons une importance à la proximité, nous nous déplaçons fréquemment à la rencontre de nos clients.  
 
   # Contact details
   contact_list:

@@ -15,7 +15,7 @@ portfolio:
     - name : Bombay Nan Grill Design
       image : images/portfolio/portofo-1.jpg
       image_webp : images/portfolio/portofo-1.webp
-      categories : ["développement site web"]
+      categories : ["Site Click and Collect"]
       content : Développement Site Web avec option E-commerce.
       link : "https://bombaynangrill.fr"
       
@@ -24,33 +24,17 @@ portfolio:
     - name : Le Palais De L'Inde
       image : images/portfolio/portofo-2.jpg
       image_webp : images/portfolio/portofo-2.webp
-      categories : ["développement site web"]
+      categories : ["Site Click and Collect"]
       content : Développement Site Web avec option E-commerce.
       link : "https://www.palaisdelinde-stalban.fr"
 
       
-    # portfolio item loop
-    - name : Portofolio David Bailly 
-      image : images/portfolio/portofo-3.jpg
-      # image_webp : images/portfolio/porto-3.webp
-      categories : ["développement site web"]
-      content : Développement d'un portofiolio.
-      link : "https://davidbaillydev.github.io/davidbailly.io/index.html"
-      
-          # portfolio item loop
-    - name : David Bailly Blog 
-      image : images/portfolio/portofo-4.jpg
-      # image_webp : images/portfolio/porto-4.webp
-      categories : ["développement site web"]
-      content : Développement d'un Site Internet avec Blog.
-      link : "https://davidbailly.netlify.app"
-
 
        # portfolio item loop
     - name : Balilona massage
       image : images/portfolio/portofo-7.jpg
       image_webp : images/portfolio/portofo-7.webp
-      categories : ["développement site web"]
+      categories : ["Site Vitrine"]
       content : Développement d'un Site Internet vitrine.
       link : "https://www.balilonamassages.fr"
 
@@ -58,7 +42,7 @@ portfolio:
     - name : Jucia Nails Studio
       image : images/portfolio/portofo-5.jpg
       # image_webp : images/portfolio/porto.webp
-      categories : ["développement site web"]
+      categories : ["Site Vitrine"]
       content : Conception site vitrine
       link : "https://davidbaillydev.github.io/jucia-studio/"
       
@@ -66,7 +50,7 @@ portfolio:
     - name : Joe Barber X Shop
       image : images/portfolio/portofo-6.jpg
       # image_webp : images/portfolio/porto.webp
-      categories : ["développement site web"]
+      categories : ["Site Vitrine"]
       content : Conception site vitrine avec option de reservation en ligne
       link : "https://davidbaillydev.github.io/davidbailly.barber/"
       
@@ -77,10 +61,27 @@ portfolio:
     - name : Gree'n Food 
       image : images/portfolio/portofo-8.jpg
       image_webp : images/portfolio/portofo-8.webp
-      categories : ["développement site web"]
+      categories : ["Site Click and Collect"]
       content : Développer votre etablissement avec un site de qualité.
       link : "https://master.d39n5tzm2rxu02.amplifyapp.com"
       
+
+       # portfolio item loop
+    - name : Portofolio David Bailly 
+      image : images/portfolio/portofo-3.jpg
+      # image_webp : images/portfolio/porto-3.webp
+      categories : ["Site Vitrine"]
+      content : Développement d'un portofiolio.
+      link : "https://davidbaillydev.github.io/davidbailly.io/index.html"
+      
+          # portfolio item loop
+    - name : David Bailly Blog 
+      image : images/portfolio/portofo-4.jpg
+      # image_webp : images/portfolio/porto-4.webp
+      categories : ["Site Vitrine"]
+      content : Développement d'un Site Internet avec Blog.
+      link : "https://davidbailly.netlify.app"
+
     # portfolio item loop
     # - name : Tag Design
     #   image : images/portfolio/portfolio-6.jpg
