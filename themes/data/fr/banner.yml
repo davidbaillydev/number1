@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/lc-hero.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "communication + digitalisation." 
-  content : " Quelle que soit votre activité ou votre niveau d'expertise, propulsez votre établissement avec un site internet ! Notre équipe sera en mesure de réaliser votre site internet."
+  content : " Quelle que soit votre niveau d'expertise, propulsez votre entreprise avec un site internet à 360°."
   # content : "Création de sites internet     Graphisme     Print     Conseil     Direction Artistique     Communication"
   button:
     enable : true

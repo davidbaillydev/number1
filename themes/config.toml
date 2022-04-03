@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://www.lcdigitale.fr"
-title = "Lcdigitale | Communication + Digitalisation., À partir de 59€/mois"
+title = "Lcdigitale | Communication + Digitalisation., à partir de 1 € par jour"
 # title = "Lcdigitale | Développeur Web Indépendant à Blagnac"
 defaultContentLanguage = "fr"
 # defaultContentLanguageInSubdir = "true"
@@ -154,7 +154,7 @@ weight = 7
 # languageCode = "fr-fr"
 logo = "images/DIGITALE.svg"
 # Meta data
-description = "Propulsez votre établissement à partir de 49€ avec un site internet, développer votre présence en ligne, misez sur un contenu optimisé et organique, Quelle que soit votre activité ou votre niveau d’expertise soyez visible, exprimez vos idées, nous créons votre site internet professionnel"
+description = "Propulsez votre établissement à partir de 1 € par jour avec un site internet, notre agence digitale 360°, développe votre présence en ligne, misez sur un contenu optimisé et organique, Quelle que soit votre activité ou votre niveau d’expertise soyez visible, exprimez vos idées, nous créons votre site internet professionnel à 360°"
 author = "David Bailly"
 # Google Analytics
 google_analytics_id = "G-1W0S9VCFWZ" # Your ID
