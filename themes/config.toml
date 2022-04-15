@@ -91,6 +91,14 @@ pre = "#"
 url = "contact"
 weight = 5
 
+[[Languages.fr.menu.main]]
+name = "Portail Client"
+pre = ""
+url = "https://invoice.zoho.eu/portal/lcdigitale"
+weight = 6
+
+[[Languages.fr.menu.main]]
+
 # [[Languages.fr.menu.main]]
 # name = "themefisher"
 # pre = ""
