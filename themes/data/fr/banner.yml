@@ -1,8 +1,8 @@
 ############################### Banner ################################
 banner:
   enable : true
-  # bg_image_webp : "images/backgrounds/lc-hero.webp"
-  bg_image : "images/backgrounds/Home.mp4"
+  bg_image_webp : "images/backgrounds/lc-hero.webp"
+  bg_image : "images/backgrounds/lc-hero.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "communication + digitalisation." 
   content : " Quelle que soit votre niveau d'expertise, propulsez votre entreprise avec un site internet à 360°."
