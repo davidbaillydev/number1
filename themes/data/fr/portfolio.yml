@@ -3,106 +3,86 @@ portfolio:
   enable : true
   title : Des missions accomplies
   portfolio_item :
-    # portfolio item loop
-    # - name : Le Palais de L'Inde
-    #   image : images/portfolio/porto.png
-    #   image_webp : images/portfolio/porto.webp
-    #   categories : ["Conception"]
-    #   content : Conception Graghique Logo
-    #   link : "#"
+
       
     # portfolio item loop
-    - name : Bombay Nan Grill Design
-      image : images/portfolio/portofo-1.jpg
-      image_webp : images/portfolio/portofo-1.webp
-      categories : ["Site Click and Collect"]
-      content : Développement Site Web avec option E-commerce.
-      link : "https://bombaynangrill.fr"
+    - name : My Naan & Tacos 
+      image : images/portfolio/porto1.png
+      # image_webp : images/portfolio/portofo-1.webp
+      categories : ["Food & Drink"]
+      content : Site web + Application 
+      link : "https://www.mynaantacos.fr"
       
 
     # portfolio item loop
-    - name : Le Palais De L'Inde
-      image : images/portfolio/portofo-2.jpg
-      image_webp : images/portfolio/portofo-2.webp
-      categories : ["Site Click and Collect"]
-      content : Développement Site Web avec option E-commerce.
-      link : "https://www.palaisdelinde-stalban.fr"
+    - name :  Ô Délices Gaillac
+      image : images/portfolio/porto2.png
+      # image_webp : images/portfolio/portofo-2.webp
+      categories : ["Food & Drink"]
+      content : Site web + Application 
+      link : "https://www.odélices.fr"
 
       
 
        # portfolio item loop
-    - name : Balilona massage
-      image : images/portfolio/portofo-7.jpg
-      image_webp : images/portfolio/portofo-7.webp
-      categories : ["Site Vitrine"]
-      content : Développement d'un Site Internet vitrine.
-      link : "https://www.balilonamassages.fr"
+    - name : Délices de l'Inde
+      image : images/portfolio/porto3.png
+      # image_webp : images/portfolio/portofo-7.webp
+      categories : ["Food & Drink"]
+      content : Site web + Application 
+      link : "https://www.delicesstgo.fr"
 
           # portfolio item loop
-    - name : Jucia Nails Studio
-      image : images/portfolio/portofo-5.jpg
+    - name : Bombay Tacos
+      image : images/portfolio/porto4.png
       # image_webp : images/portfolio/porto.webp
-      categories : ["Site Vitrine"]
-      content : Conception site vitrine
-      link : "https://davidbaillydev.github.io/jucia-studio/"
+      categories : ["Food & Drink"]
+      content : Site web + Application 
+      link : "https://www.bombay-tacos.fr"
       
         # portfolio item loop
-    - name : Joe Barber X Shop
-      image : images/portfolio/portofo-6.jpg
+    - name : La Serenella
+      image : images/portfolio/porto5.png
       # image_webp : images/portfolio/porto.webp
-      categories : ["Site Vitrine"]
-      content : Conception site vitrine avec option de reservation en ligne
-      link : "https://davidbaillydev.github.io/davidbailly.barber/"
+      categories : ["Food & Drink"]
+      content : Site web + Application 
+      link : "https://www.laserenella.fr"
       
       
       
       
     # portfolio item loop
-    - name : Gree'n Food 
-      image : images/portfolio/portofo-8.jpg
+    - name : Bombay Nan Grill
+      image : images/portfolio/porto8.png
       image_webp : images/portfolio/portofo-8.webp
-      categories : ["Site Click and Collect"]
-      content : Développer votre etablissement avec un site de qualité.
-      link : "https://master.d39n5tzm2rxu02.amplifyapp.com"
+      categories : ["Food & Drink"]
+      content : Site web + Application 
+      link : "https://www.bombaynangrill.fr"
       
 
        # portfolio item loop
-    - name : Portofolio David Bailly 
-      image : images/portfolio/portofo-3.jpg
+    - name : Aucé'Nails 
+      image : images/portfolio/porto7.png
       # image_webp : images/portfolio/porto-3.webp
-      categories : ["Site Vitrine"]
-      content : Développement d'un portofiolio.
-      link : "https://davidbaillydev.github.io/davidbailly.io/index.html"
+      categories : ["Soins & Bien Être"]
+      content : Site web mobile Responsive.
+      link : "https://www.aucenails.fr"
       
           # portfolio item loop
-    - name : David Bailly Blog 
-      image : images/portfolio/portofo-4.jpg
+    - name : Balilona Massage 
+      image : images/portfolio/porto9.png
       # image_webp : images/portfolio/porto-4.webp
-      categories : ["Site Vitrine"]
-      content : Développement d'un Site Internet avec Blog.
-      link : "https://davidbailly.netlify.app"
+      categories : ["Soins & Bien Être"]
+      content : Site web mobile Responsive.
+      link : "https://www.balilonamassages.fr"
 
     # portfolio item loop
-    # - name : Tag Design
-    #   image : images/portfolio/portfolio-6.jpg
-    #   image_webp : images/portfolio/portfolio-6.webp
-    #   categories : ["photography"]
-    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    #   link : "#"
+    - name : MM Services
+      image : images/portfolio/porto6.png
+      # image_webp : images/portfolio/portfolio-6.webp
+      categories : ["Artisanat"]
+      content : Site web mobile Responsive.
+      link : "https://mmservices.netlify.app"
       
     
-    # portfolio item loop
-    # - name : Stationary Design
-    #   image : images/portfolio/portfolio-8.jpg
-    #   image_webp : images/portfolio/portfolio-8.webp
-    #   categories : ["design", "developpement"]
-    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    #   link : "#"
-      
-    # portfolio item loop
-    # - name : Tag Design
-    #   image : images/portfolio/portfolio-2.jpg
-    #   image_webp : images/portfolio/portfolio-2.webp
-    #   categories : ["design"]
-    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    #   link : "#"
+   
