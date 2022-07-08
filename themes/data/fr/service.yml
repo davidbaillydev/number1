@@ -32,3 +32,4 @@ service:
     - name : Communication Global
       icon : ti-rocket # themify icon pack : https://themify.me/themify-icons
       content : Sur la base de vos objectifs et des valeurs de votre entreprise, notre équipe de communication travaille à l'établissement d'une stratégie précise et s'en sert pour créer des contenus adaptés à votre projet.
+      link : https://lcdigitale-1.hubspotpagebuilder.com/community-manag
