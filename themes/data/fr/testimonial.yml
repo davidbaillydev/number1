@@ -8,19 +8,62 @@ testimonial:
     - name : Bombay Nan Grill
       image : images/client/clienta.jpg
       image_webp : images/client/clienta.webp
-      date : Dec 26, 2020
-      content :  Je suis très content d'avoir collaboré avec  Lcdigitale, pour la conception de mon site internet il ont été rapide et éfficace, un grand merci.
+      # date : Dec 26, 2020
+      # content :  Je suis très content d'avoir collaboré avec  Lcdigitale, pour la conception de mon site internet il ont été rapide et éfficace, un grand merci.
       
     # testimonial item loop
     - name : Le Palais De L'Inde
       image : images/client/clientb.jpg
       image_webp : images/client/clientb.webp
-      date : Jan 05, 2021
-      content : Notre activités ayant été ralenti par le Covid-19, Lc digitale nous à permis d'avoir un site de vente en ligne à notre image, aujourd'hui nous travaillons autrements.
+      # date : Jan 05, 2021
+      # content : Notre activités ayant été ralenti par le Covid-19, Lc digitale nous à permis d'avoir un site de vente en ligne à notre image, aujourd'hui nous travaillons autrements.
       
     # testimonial item loop
     - name : Balilona Massage
       image : images/client/balilona.jpg
       # image_webp : images/client/client-1.webp
-      date : Nov 10, 2021
-      content : Des prix très abordable pour les petites entreprises qui commence et qui cherche à faire un site vitrine. Il y a un réel suivis tout le long du projet pour un site qui nous correspond complètement et des possibilités d'amélioration.
+      # date : Nov 10, 2021
+      # content : Des prix très abordable pour les petites entreprises qui commence et qui cherche à faire un site vitrine. Il y a un réel suivis tout le long du projet pour un site qui nous correspond complètement et des possibilités d'amélioration.
+
+# testimonial item loop
+    - name : La Serenella
+      image : images/client/logo.jpg
+      # image_webp : images/client/client-1.webp
+      # date : Juil 10, 2022
+      # content : Des prix très abordable pour les petites entreprises qui commence et qui cherche à faire un site vitrine. Il y a un réel suivis tout le long du projet pour un site qui nous correspond complètement et des possibilités d'amélioration.
+
+  # testimonial item loop
+    - name : Délices de L'inde
+      image : images/client/logo2.jpg
+      # image_webp : images/client/clienta.webp
+      # date : Juillet 5, 2022
+      # content :  Je suis très content d'avoir collaboré avec  Lcdigitale, pour la conception de mon site internet il ont été rapide et éfficace, un grand merci.
+      
+       # testimonial item loop
+    - name : My Naan & Tacos
+      image : images/client/logo3.jpg
+      # image_webp : images/client/clientb.webp
+      # date : Jan 05, 2022
+      # content : Notre activités ayant été ralenti par le Covid-19, Lc digitale nous à permis d'avoir un site de vente en ligne à notre image, aujourd'hui nous travaillons autrements.
+      
+      # testimonial item loop
+    - name : Aucé'nails
+      image : images/client/logo4.jpg
+      # image_webp : images/client/clienta.webp
+      # date : Juilet 26, 2022
+      # content :  Je suis très content d'avoir collaboré avec  Lcdigitale, pour la conception de mon site internet il ont été rapide et éfficace, un grand merci.
+      
+         # testimonial item loop
+    - name : Bombay Tacos
+      image : images/client/logo5.jpg
+      # image_webp : images/client/clientb.webp
+      # date : Jan 05, 2022
+      # content : Notre activités ayant été ralenti par le Covid-19, Lc digitale nous à permis d'avoir un site de vente en ligne à notre image, aujourd'hui nous travaillons autrements.
+      
+        # testimonial item loop
+    - name : ô'Délices
+      image : images/client/logo6.jpg
+      # image_webp : images/client/clientb.webp
+      # date : Jan 05, 2022
+      # content : Notre activités ayant été ralenti par le Covid-19, Lc digitale nous à permis d'avoir un site de vente en ligne à notre image, aujourd'hui nous travaillons autrements.
+      
