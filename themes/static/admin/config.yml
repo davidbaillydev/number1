@@ -7,7 +7,7 @@ media_folder: "static/images/blog" # Media files will be stored in the repo unde
 public_folder: "/images/blog" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-  - name: "content" # Used in routes, e.g., /admin/collections/blog
+  - name: "putin" # Used in routes, e.g., /admin/collections/blog
     label: "Blog lc digitale" # Used in the UI
     folder: 'themes/content/french' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
