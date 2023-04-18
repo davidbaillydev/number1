@@ -4,12 +4,12 @@ backend:
 
 # These lines should *not* be indented
 media_folder: "static/images/blog" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/images/blog" # The src attribute for uploaded media will begin with /images/uploads
+public_folder: "images/blog" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-  - name: "french/blog" # Used in routes, e.g., /admin/collections/blog
-    label: "french" # Used in the UI
-    folder: "content/french/blog" # The path to the folder where the documents are stored 
+  - name: "french" # Used in routes, e.g., /admin/collections/blog
+    label: "french post" # Used in the UI
+    folder: "content/french" # The path to the folder where the documents are stored 
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
