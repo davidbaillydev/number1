@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://www.lcdigitale.fr"
+baseURL = "/"
 title = "LC Digitale - Agence Web - Site Internet - Communication - Design à Blagnac"
 # title = "Lcdigitale | Développeur Web Indépendant à Blagnac"
 defaultContentLanguage = "fr"
