@@ -9,7 +9,7 @@ public_folder: "/images/blog" # The src attribute for uploaded media will begin 
 collections:
   - name: "content" # Used in routes, e.g., /admin/collections/blog
     label: "Blog lc digitale" # Used in the UI
-    folder: "./content/french" # The path to the folder where the documents are stored 
+    path: themes/content/french # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
