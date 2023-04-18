@@ -2,13 +2,11 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
-  # media_folder: 'static/images/uploads'
-  # public_folder : '/images/uploads'
-  # media_library : ''
+  media_folder: 'static/images/blog'
+  public_folder : '/images/'
+ 
 
-  media_folder: "static/images/uploads"
-  media_library:
-   name: uploads
+
   
 
 collections:
