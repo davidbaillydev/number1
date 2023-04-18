@@ -32,6 +32,7 @@
 <script src="{{ site.Params.map.gmap_api | safeURL }}"></script>
 {{ end }}
 
+
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range site.Params.plugins.js}}
 <script src="{{ .link | absURL }}"></script>
@@ -66,4 +67,16 @@
 		}
 	})(jQuery);
 </script>
+
+<script>
+	if (window.netlifyIdentity) {
+	  window.netlifyIdentity.on("init", user => {
+		if (!user) {
+		  window.netlifyIdentity.on("login", () => {
+			document.location.href = "/admin/";
+		  });
+		}
+	  });
+	}
+  </script>
 {{ end }}

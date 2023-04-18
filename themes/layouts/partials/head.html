@@ -1,6 +1,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>{{ .Title }}</title>
+	
 
 	{{ "<!-- mobile responsive meta -->" | safeHTML }}
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -49,5 +50,7 @@
 	  gtag('config', '{{ . }}');
 	</script>
 	{{ end }}
+
+	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
